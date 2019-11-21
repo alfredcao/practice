@@ -104,6 +104,19 @@ func main() {
 	fmt.Println("实部 : ", real(cmp))
 	fmt.Println("虚部 : ", imag(cmp))
 
+	var str string = "Hello World"
+	fmt.Printf("字符串%s长度为 : %d\n", str, len(str))
+	fmt.Printf("字符串%s首字符为 : %c\n", str, str[0])
+	//str[0] = 'X' // cannot assign to str[0]
+
+	for i := 0; i < len(str); i++ {
+		fmt.Println(str[i])
+	}
+
+	for i, ch := range str {
+		fmt.Println(i, ch)
+	}
+
 }
 
 func getName() (firstName, lastName, nickName string) {
