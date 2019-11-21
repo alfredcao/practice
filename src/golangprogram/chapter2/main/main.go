@@ -117,6 +117,34 @@ func main() {
 		fmt.Println(i, ch)
 	}
 
+	var arr = [5]int{1, 2, 3, 4, 5}
+	modifyArray(arr)
+	fmt.Println("In main(), array values:", arr)
+
+	var myArray = [10]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+	var mySlice = myArray[3:5]
+	fmt.Println("myArray : ")
+	for _, e := range myArray {
+		fmt.Print(e, " ")
+	}
+	fmt.Println("")
+	fmt.Println("mySlice : ")
+	for _, e := range mySlice {
+		fmt.Print(e, " ")
+	}
+
+	mySlice1 := make([]int, 5)
+	mySlice2 := make([]int, 5, 10)
+	fmt.Println("")
+	fmt.Println("len(mySlice1)", len(mySlice1), "cap(mySlice1)", cap(mySlice1))
+	fmt.Println("len(mySlice2)", len(mySlice2), "cap(mySlice2)", cap(mySlice2))
+
+	mySlice3 := []int{1, 2, 3}
+	mySlice4 := []int{4, 5, 6, 7, 8}
+	copy(mySlice4, mySlice3)
+	copy(mySlice3, mySlice4)
+	fmt.Println("mySlice3 : ", mySlice3)
+	fmt.Println("mySlice4 : ", mySlice4)
 }
 
 func getName() (firstName, lastName, nickName string) {
@@ -125,4 +153,9 @@ func getName() (firstName, lastName, nickName string) {
 
 func isEqual(f1, f2, gap float32) bool {
 	return math.Dim(float64(f1), float64(f2)) < float64(gap)
+}
+
+func modifyArray(arr [5]int) {
+	arr[0] = 10
+	fmt.Println("In modify(), array values:", arr)
 }
