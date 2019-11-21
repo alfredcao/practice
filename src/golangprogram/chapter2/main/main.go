@@ -98,6 +98,12 @@ func main() {
 
 	fmt.Println("isEqual(0.0000123, 0.000012234, 0.0000001) : ", isEqual(f1, f2, gap))
 
+	var cmp complex64
+	//cmp = 3.2 + 1.2i
+	cmp = complex(3.2, 1.2)
+	fmt.Println("实部 : ", real(cmp))
+	fmt.Println("虚部 : ", imag(cmp))
+
 }
 
 func getName() (firstName, lastName, nickName string) {
