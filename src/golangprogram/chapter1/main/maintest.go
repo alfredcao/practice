@@ -1,7 +1,7 @@
 package main
 
 //import "calc"
-import "golangprogram/channel"
+import "golangprogram/chapter1/channel"
 
 func main() {
 	//calc.Clac()

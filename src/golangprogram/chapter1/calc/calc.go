@@ -1,7 +1,7 @@
 package calc
 
 import (
-	simplemath2 "golangprogram/simplemath"
+	"golangprogram/chapter1/simplemath"
 	"os"
 )
 import "fmt"
@@ -33,7 +33,7 @@ func Clac() {
 			return
 		}
 
-		ret := simplemath2.Add(v1, v2)
+		ret := simplemath.Add(v1, v2)
 		fmt.Println("Result : ", ret)
 	case "sqrt":
 		if len(args) != 3 {
@@ -47,7 +47,7 @@ func Clac() {
 			return
 		}
 
-		ret := simplemath2.Sqrt(v)
+		ret := simplemath.Sqrt(v)
 		fmt.Println("Result : ", ret)
 	default:
 		Usage()
