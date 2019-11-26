@@ -145,6 +145,19 @@ func main() {
 	copy(mySlice3, mySlice4)
 	fmt.Println("mySlice3 : ", mySlice3)
 	fmt.Println("mySlice4 : ", mySlice4)
+
+	// 数组为值类型，直接赋值或传参都会产生一次复制操作
+	sourceArr := [3]int{1, 2, 3}
+	targetArr := sourceArr
+	sourceArr[0] = 5
+	var sourceArrAddress = &sourceArr
+	var targetArrAddress = &targetArr
+	fmt.Println("sourceArr : ", sourceArr, ", sourceArr address : ", sourceArrAddress)
+	fmt.Println("targetArr : ", targetArr, ", targetArr address : ", targetArrAddress)
+
+	(*sourceArrAddress)[2] = 10
+	fmt.Println("sourceArr : ", sourceArr)
+
 }
 
 func getName() (firstName, lastName, nickName string) {
