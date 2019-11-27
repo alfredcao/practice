@@ -158,6 +158,9 @@ func main() {
 	(*sourceArrAddress)[2] = 10
 	fmt.Println("sourceArr : ", sourceArr)
 
+	switchExample(0)
+	switchExample(10)
+	switchExample(11)
 }
 
 func getName() (firstName, lastName, nickName string) {
@@ -171,4 +174,16 @@ func isEqual(f1, f2, gap float32) bool {
 func modifyArray(arr [5]int) {
 	arr[0] = 10
 	fmt.Println("In modify(), array values:", arr)
+}
+
+func switchExample(i int) {
+	switch i {
+	case 0:
+		fmt.Println("hello!")
+	case 10:
+		fmt.Println("你好！")
+	default:
+		fmt.Println("呵呵！")
+	}
+
 }
