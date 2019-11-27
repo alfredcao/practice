@@ -162,6 +162,17 @@ func main() {
 	switchExample(5)
 	switchExample(10)
 	switchExample(11)
+
+	sum := 0
+	for { // 无限循环
+		sum++
+		if sum == 100 {
+			break
+		}
+	}
+	fmt.Println("sum=", sum)
+
+	gotoExample()
 }
 
 func getName() (firstName, lastName, nickName string) {
@@ -187,4 +198,14 @@ func switchExample(i int) {
 		fmt.Println("呵呵！")
 	}
 
+}
+
+func gotoExample() {
+	i := 0
+HERE:
+	fmt.Println(i)
+	i++
+	if i < 10 {
+		goto HERE
+	}
 }
