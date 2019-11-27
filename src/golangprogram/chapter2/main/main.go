@@ -159,6 +159,7 @@ func main() {
 	fmt.Println("sourceArr : ", sourceArr)
 
 	switchExample(0)
+	switchExample(5)
 	switchExample(10)
 	switchExample(11)
 }
@@ -178,8 +179,8 @@ func modifyArray(arr [5]int) {
 
 func switchExample(i int) {
 	switch i {
-	case 0:
-		fmt.Println("hello!")
+	case 0, 5:
+		fmt.Println("hello!") // 不需要break来明确退出一个case，可以通过添加fallthrough关键字来继续执行下一个case
 	case 10:
 		fmt.Println("你好！")
 	default:
