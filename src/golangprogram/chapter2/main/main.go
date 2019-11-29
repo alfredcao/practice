@@ -158,6 +158,21 @@ func main() {
 	(*sourceArrAddress)[2] = 10
 	fmt.Println("sourceArr : ", sourceArr)
 
+	switchExample(0)
+	switchExample(5)
+	switchExample(10)
+	switchExample(11)
+
+	sum := 0
+	for { // 无限循环
+		sum++
+		if sum == 100 {
+			break
+		}
+	}
+	fmt.Println("sum=", sum)
+
+	gotoExample()
 }
 
 func getName() (firstName, lastName, nickName string) {
@@ -171,4 +186,26 @@ func isEqual(f1, f2, gap float32) bool {
 func modifyArray(arr [5]int) {
 	arr[0] = 10
 	fmt.Println("In modify(), array values:", arr)
+}
+
+func switchExample(i int) {
+	switch i {
+	case 0, 5:
+		fmt.Println("hello!") // 不需要break来明确退出一个case，可以通过添加fallthrough关键字来继续执行下一个case
+	case 10:
+		fmt.Println("你好！")
+	default:
+		fmt.Println("呵呵！")
+	}
+
+}
+
+func gotoExample() {
+	i := 0
+HERE:
+	fmt.Println(i)
+	i++
+	if i < 10 {
+		goto HERE
+	}
 }
