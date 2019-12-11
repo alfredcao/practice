@@ -1,10 +1,24 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sort"
+)
 
 func main() {
 	//testSlice()
-	testString()
+	//testString()
+	testSliceSort()
+}
+
+func testSliceSort() {
+	var arr = []int{24, 541, 346, 6, 324}
+	fmt.Println("排序前，24的索引为 : ", sort.SearchInts(arr, 24))
+	sort.Ints(arr)
+	for _, v := range arr {
+		fmt.Println(v)
+	}
+	fmt.Println("排序后，24的索引为 : ", sort.SearchInts(arr, 24))
 }
 
 func testSlice() {
