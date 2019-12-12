@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	var stu1 = new(Student)
 	fmt.Printf("stu1: %v, %T, %p\n", stu1, stu1, stu1)
+	fmt.Printf("stu1: %p, %p, %p\n", &stu1.Name, &stu1.Age, &stu1.Score)
 	var stu2 = Student{
 		Name:  "stu2",
 		Age:   10,
