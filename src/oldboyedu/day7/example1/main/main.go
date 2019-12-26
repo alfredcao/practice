@@ -8,18 +8,21 @@ import (
 )
 
 func main() {
+	var balancerName string
+	_, err := fmt.Scanf("%s", &balancerName)
+	if err != nil {
+		fmt.Println("读取负载均衡器名称失败！", err)
+		return
+	}
+
 	var servers = make([]*balance.Server, 0)
 	for i := 0; i < 16; i++ {
 		server := balance.NewServer(fmt.Sprintf("192.168.%d.%d", rand.Intn(255), rand.Intn(255)), 8080)
 		servers = append(servers, server)
 	}
 
-	var balancer balance.Balancer
-	balancer = new(balance.RoundRobinBalancer)
-	//balancer = new(balance.RandomBalancer)
-
 	for {
-		server, err := balancer.DoBalance(servers)
+		server, err := balance.DoBalance(balancerName, servers)
 		if err != nil {
 			fmt.Println("获取服务器失败！", err)
 			break

@@ -12,6 +12,11 @@ type Balancer interface {
 type RandomBalancer struct {
 }
 
+func init() {
+	Register("random", &RandomBalancer{})
+	Register("roundrobin", &RoundRobinBalancer{})
+}
+
 func (p *RandomBalancer) DoBalance(servers []*Server) (server *Server, err error) {
 	if servers == nil || len(servers) == 0 {
 		err = errors.New("no server")
