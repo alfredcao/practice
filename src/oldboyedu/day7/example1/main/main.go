@@ -9,7 +9,8 @@ import (
 
 func main() {
 	var balancerName string
-	_, err := fmt.Scanf("%s", &balancerName)
+	var hashkey string
+	_, err := fmt.Scanf("%s %s", &balancerName, &hashkey)
 	if err != nil {
 		fmt.Println("读取负载均衡器名称失败！", err)
 		return
@@ -22,7 +23,7 @@ func main() {
 	}
 
 	for {
-		server, err := balance.DoBalance(balancerName, servers)
+		server, err := balance.DoBalance(balancerName, servers, hashkey)
 		if err != nil {
 			fmt.Println("获取服务器失败！", err)
 			break
