@@ -13,6 +13,7 @@ func main() {
 		fmt.Println("打开文件错误！", err)
 		return
 	}
+	defer file.Close()
 
 	reader := bufio.NewReader(file)
 	var isLastLine = false
