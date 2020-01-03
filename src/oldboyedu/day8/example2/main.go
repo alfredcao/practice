@@ -3,15 +3,15 @@ package main
 import (
 	"fmt"
 	"math"
-	"time"
 )
 
 func main() {
 	intChan := make(chan int, 1000)
 	resultChan := make(chan int, 1000)
+	exitChan := make(chan bool, 8)
 
 	for i := 0; i < 8; i++ {
-		go calc(intChan, resultChan)
+		go calc(intChan, resultChan, exitChan)
 	}
 
 	go func() {
@@ -22,20 +22,26 @@ func main() {
 	}()
 
 	go func() {
-		for result := range resultChan {
-			fmt.Println(result)
+		for i := 0; i < 8; i++ {
+			<-exitChan
 		}
+		close(resultChan)
 	}()
-	time.Sleep(time.Second * 10)
+
+	for result := range resultChan {
+		fmt.Println(result)
+	}
 
 }
 
-func calc(intChan chan int, resultChan chan int) {
+func calc(intChan chan int, resultChan chan int, exitChan chan bool) {
 	for v := range intChan {
 		if isPrime(v) {
 			resultChan <- v
 		}
 	}
+
+	exitChan <- true
 }
 
 // 判断数字是否为质数
