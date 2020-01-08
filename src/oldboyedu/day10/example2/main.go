@@ -2,7 +2,9 @@ package main
 
 import (
 	"fmt"
+	"net"
 	"net/http"
+	"time"
 )
 
 var urls = []string{
@@ -13,7 +15,16 @@ var urls = []string{
 
 func main() {
 	for _, url := range urls {
-		res, err := http.Head(url)
+		c := http.Client{
+			Transport: &http.Transport{
+				Dial: func(network, addr string) (net.Conn, error) {
+					return net.DialTimeout(network, addr, time.Second*2)
+				},
+			},
+		}
+
+		//res, err := http.Head(url)
+		res, err := c.Head(url)
 		if err != nil {
 			fmt.Printf("访问网站[%s]失败！err : %v\n", url, err)
 		} else {
