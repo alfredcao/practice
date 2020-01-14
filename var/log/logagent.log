@@ -1,0 +1,191 @@
+2020/01/14 20:38:28.766 [I]  init log success
+2020/01/14 20:38:28.767 [I]  init log file[./var/log/nginx.log] tail success
+2020/01/14 20:38:28.767 [I]  init tail success
+2020/01/14 20:38:28.780 [I]  init kafka success
+2020/01/14 20:38:29.026 [I]  send msg to kafka success！partition : 0, offset : 1
+
+2020/01/14 20:38:30.041 [I]  send msg to kafka success！partition : 0, offset : 2
+
+2020/01/14 20:38:30.794 [I]  send msg to kafka success！partition : 0, offset : 3
+
+2020/01/14 20:38:31.813 [I]  send msg to kafka success！partition : 0, offset : 4
+
+2020/01/14 20:38:32.824 [I]  send msg to kafka success！partition : 0, offset : 5
+
+2020/01/14 20:38:33.839 [I]  send msg to kafka success！partition : 0, offset : 6
+
+2020/01/14 20:38:34.853 [I]  send msg to kafka success！partition : 0, offset : 7
+
+2020/01/14 20:38:35.866 [I]  send msg to kafka success！partition : 0, offset : 8
+
+2020/01/14 20:38:36.875 [I]  send msg to kafka success！partition : 0, offset : 9
+
+2020/01/14 20:38:37.885 [I]  send msg to kafka success！partition : 0, offset : 10
+
+2020/01/14 20:38:38.894 [I]  send msg to kafka success！partition : 0, offset : 11
+
+2020/01/14 20:38:39.909 [I]  send msg to kafka success！partition : 0, offset : 12
+
+2020/01/14 20:38:40.924 [I]  send msg to kafka success！partition : 0, offset : 13
+
+2020/01/14 20:38:41.937 [I]  send msg to kafka success！partition : 0, offset : 14
+
+2020/01/14 20:38:42.951 [I]  send msg to kafka success！partition : 0, offset : 15
+
+2020/01/14 20:38:43.970 [I]  send msg to kafka success！partition : 0, offset : 16
+
+2020/01/14 20:38:44.984 [I]  send msg to kafka success！partition : 0, offset : 17
+
+2020/01/14 20:38:45.996 [I]  send msg to kafka success！partition : 0, offset : 18
+
+2020/01/14 20:38:47.012 [I]  send msg to kafka success！partition : 0, offset : 19
+
+2020/01/14 20:38:48.025 [I]  send msg to kafka success！partition : 0, offset : 20
+
+2020/01/14 20:38:49.035 [I]  send msg to kafka success！partition : 0, offset : 21
+
+2020/01/14 20:38:50.051 [I]  send msg to kafka success！partition : 0, offset : 22
+
+2020/01/14 20:40:07.837 [I]  init log success
+2020/01/14 20:40:07.837 [I]  init log file[./var/log/nginx.log] tail success
+2020/01/14 20:40:07.837 [I]  init tail success
+2020/01/14 20:40:07.850 [I]  init kafka success
+2020/01/14 20:40:07.861 [I]  send msg to kafka success！partition : 0, offset : 23
+2020/01/14 20:40:07.863 [I]  send msg to kafka success！partition : 0, offset : 24
+2020/01/14 20:40:07.864 [I]  send msg to kafka success！partition : 0, offset : 25
+2020/01/14 20:40:07.865 [I]  send msg to kafka success！partition : 0, offset : 26
+2020/01/14 20:40:07.866 [I]  send msg to kafka success！partition : 0, offset : 27
+2020/01/14 20:40:07.868 [I]  send msg to kafka success！partition : 0, offset : 28
+2020/01/14 20:40:07.869 [I]  send msg to kafka success！partition : 0, offset : 29
+2020/01/14 20:40:07.872 [I]  send msg to kafka success！partition : 0, offset : 30
+2020/01/14 20:40:07.873 [I]  send msg to kafka success！partition : 0, offset : 31
+2020/01/14 20:40:07.874 [I]  send msg to kafka success！partition : 0, offset : 32
+2020/01/14 20:40:07.879 [I]  send msg to kafka success！partition : 0, offset : 33
+2020/01/14 20:40:07.882 [I]  send msg to kafka success！partition : 0, offset : 34
+2020/01/14 20:40:07.883 [I]  send msg to kafka success！partition : 0, offset : 35
+2020/01/14 20:40:07.885 [I]  send msg to kafka success！partition : 0, offset : 36
+2020/01/14 20:40:07.886 [I]  send msg to kafka success！partition : 0, offset : 37
+2020/01/14 20:40:07.889 [I]  send msg to kafka success！partition : 0, offset : 38
+2020/01/14 20:40:07.892 [I]  send msg to kafka success！partition : 0, offset : 39
+2020/01/14 20:40:08.063 [I]  send msg to kafka success！partition : 0, offset : 40
+2020/01/14 20:40:08.066 [I]  send msg to kafka success！partition : 0, offset : 41
+2020/01/14 20:40:08.070 [I]  send msg to kafka success！partition : 0, offset : 42
+2020/01/14 20:40:08.074 [I]  send msg to kafka success！partition : 0, offset : 43
+2020/01/14 20:40:08.081 [I]  send msg to kafka success！partition : 0, offset : 44
+2020/01/14 20:40:08.096 [I]  send msg to kafka success！partition : 0, offset : 45
+2020/01/14 20:40:09.100 [I]  send msg to kafka success！partition : 0, offset : 46
+2020/01/14 20:40:09.856 [I]  send msg to kafka success！partition : 0, offset : 47
+2020/01/14 20:40:10.870 [I]  send msg to kafka success！partition : 0, offset : 48
+2020/01/14 20:40:11.883 [I]  send msg to kafka success！partition : 0, offset : 49
+2020/01/14 20:40:12.899 [I]  send msg to kafka success！partition : 0, offset : 50
+2020/01/14 20:40:13.915 [I]  send msg to kafka success！partition : 0, offset : 51
+2020/01/14 20:40:14.935 [I]  send msg to kafka success！partition : 0, offset : 52
+2020/01/14 20:40:15.949 [I]  send msg to kafka success！partition : 0, offset : 53
+2020/01/14 20:40:16.964 [I]  send msg to kafka success！partition : 0, offset : 54
+2020/01/14 20:40:17.974 [I]  send msg to kafka success！partition : 0, offset : 55
+2020/01/14 20:40:18.995 [I]  send msg to kafka success！partition : 0, offset : 56
+2020/01/14 20:40:20.005 [I]  send msg to kafka success！partition : 0, offset : 57
+2020/01/14 20:40:21.019 [I]  send msg to kafka success！partition : 0, offset : 58
+2020/01/14 20:40:22.032 [I]  send msg to kafka success！partition : 0, offset : 59
+2020/01/14 20:40:23.045 [I]  send msg to kafka success！partition : 0, offset : 60
+2020/01/14 20:40:24.058 [I]  send msg to kafka success！partition : 0, offset : 61
+2020/01/14 20:40:25.071 [I]  send msg to kafka success！partition : 0, offset : 62
+2020/01/14 20:40:26.090 [I]  send msg to kafka success！partition : 0, offset : 63
+2020/01/14 20:40:27.098 [I]  send msg to kafka success！partition : 0, offset : 64
+2020/01/14 20:40:28.112 [I]  send msg to kafka success！partition : 0, offset : 65
+2020/01/14 20:40:29.123 [I]  send msg to kafka success！partition : 0, offset : 66
+2020/01/14 20:40:30.136 [I]  send msg to kafka success！partition : 0, offset : 67
+2020/01/14 20:40:31.151 [I]  send msg to kafka success！partition : 0, offset : 68
+2020/01/14 20:40:32.166 [I]  send msg to kafka success！partition : 0, offset : 69
+2020/01/14 20:40:33.181 [I]  send msg to kafka success！partition : 0, offset : 70
+2020/01/14 20:40:33.939 [I]  send msg to kafka success！partition : 0, offset : 71
+2020/01/14 20:41:05.334 [I]  init log success
+2020/01/14 20:41:05.334 [I]  init log file[./var/log/nginx.log] tail success
+2020/01/14 20:41:05.334 [I]  init tail success
+2020/01/14 20:41:05.340 [I]  init kafka success
+2020/01/14 20:41:05.343 [I]  send msg to kafka success！partition : 0, offset : 72
+2020/01/14 20:41:05.344 [I]  send msg to kafka success！partition : 0, offset : 73
+2020/01/14 20:41:05.344 [I]  send msg to kafka success！partition : 0, offset : 74
+2020/01/14 20:41:05.345 [I]  send msg to kafka success！partition : 0, offset : 75
+2020/01/14 20:41:05.346 [I]  send msg to kafka success！partition : 0, offset : 76
+2020/01/14 20:41:05.347 [I]  send msg to kafka success！partition : 0, offset : 77
+2020/01/14 20:41:05.348 [I]  send msg to kafka success！partition : 0, offset : 78
+2020/01/14 20:41:05.349 [I]  send msg to kafka success！partition : 0, offset : 79
+2020/01/14 20:41:05.351 [I]  send msg to kafka success！partition : 0, offset : 80
+2020/01/14 20:41:05.353 [I]  send msg to kafka success！partition : 0, offset : 81
+2020/01/14 20:41:05.354 [I]  send msg to kafka success！partition : 0, offset : 82
+2020/01/14 20:41:05.355 [I]  send msg to kafka success！partition : 0, offset : 83
+2020/01/14 20:41:05.356 [I]  send msg to kafka success！partition : 0, offset : 84
+2020/01/14 20:41:05.357 [I]  send msg to kafka success！partition : 0, offset : 85
+2020/01/14 20:41:05.358 [I]  send msg to kafka success！partition : 0, offset : 86
+2020/01/14 20:41:05.360 [I]  send msg to kafka success！partition : 0, offset : 87
+2020/01/14 20:41:05.362 [I]  send msg to kafka success！partition : 0, offset : 88
+2020/01/14 20:41:05.365 [I]  send msg to kafka success！partition : 0, offset : 89
+2020/01/14 20:41:05.367 [I]  send msg to kafka success！partition : 0, offset : 90
+2020/01/14 20:41:05.370 [I]  send msg to kafka success！partition : 0, offset : 91
+2020/01/14 20:41:05.371 [I]  send msg to kafka success！partition : 0, offset : 92
+2020/01/14 20:41:05.373 [I]  send msg to kafka success！partition : 0, offset : 93
+2020/01/14 20:41:05.374 [I]  send msg to kafka success！partition : 0, offset : 94
+2020/01/14 20:41:05.376 [I]  send msg to kafka success！partition : 0, offset : 95
+2020/01/14 20:41:05.377 [I]  send msg to kafka success！partition : 0, offset : 96
+2020/01/14 20:41:05.378 [I]  send msg to kafka success！partition : 0, offset : 97
+2020/01/14 20:41:05.379 [I]  send msg to kafka success！partition : 0, offset : 98
+2020/01/14 20:41:05.380 [I]  send msg to kafka success！partition : 0, offset : 99
+2020/01/14 20:41:05.380 [I]  send msg to kafka success！partition : 0, offset : 100
+2020/01/14 20:41:05.381 [I]  send msg to kafka success！partition : 0, offset : 101
+2020/01/14 20:41:05.382 [I]  send msg to kafka success！partition : 0, offset : 102
+2020/01/14 20:41:05.383 [I]  send msg to kafka success！partition : 0, offset : 103
+2020/01/14 20:41:05.384 [I]  send msg to kafka success！partition : 0, offset : 104
+2020/01/14 20:41:05.384 [I]  send msg to kafka success！partition : 0, offset : 105
+2020/01/14 20:41:05.385 [I]  send msg to kafka success！partition : 0, offset : 106
+2020/01/14 20:41:05.386 [I]  send msg to kafka success！partition : 0, offset : 107
+2020/01/14 20:41:05.386 [I]  send msg to kafka success！partition : 0, offset : 108
+2020/01/14 20:41:05.387 [I]  send msg to kafka success！partition : 0, offset : 109
+2020/01/14 20:41:05.390 [I]  send msg to kafka success！partition : 0, offset : 110
+2020/01/14 20:41:05.390 [I]  send msg to kafka success！partition : 0, offset : 111
+2020/01/14 20:41:05.391 [I]  send msg to kafka success！partition : 0, offset : 112
+2020/01/14 20:41:05.391 [I]  send msg to kafka success！partition : 0, offset : 113
+2020/01/14 20:41:05.392 [I]  send msg to kafka success！partition : 0, offset : 114
+2020/01/14 20:41:05.392 [I]  send msg to kafka success！partition : 0, offset : 115
+2020/01/14 20:41:05.393 [I]  send msg to kafka success！partition : 0, offset : 116
+2020/01/14 20:41:05.394 [I]  send msg to kafka success！partition : 0, offset : 117
+2020/01/14 20:41:05.394 [I]  send msg to kafka success！partition : 0, offset : 118
+2020/01/14 20:41:05.395 [I]  send msg to kafka success！partition : 0, offset : 119
+2020/01/14 20:41:05.395 [I]  send msg to kafka success！partition : 0, offset : 120
+2020/01/14 20:41:05.591 [I]  send msg to kafka success！partition : 0, offset : 121
+2020/01/14 20:41:06.350 [I]  send msg to kafka success！partition : 0, offset : 122
+2020/01/14 20:41:07.363 [I]  send msg to kafka success！partition : 0, offset : 123
+2020/01/14 20:41:08.380 [I]  send msg to kafka success！partition : 0, offset : 124
+2020/01/14 20:41:09.394 [I]  send msg to kafka success！partition : 0, offset : 125
+2020/01/14 20:41:10.408 [I]  send msg to kafka success！partition : 0, offset : 126
+2020/01/14 20:41:11.427 [I]  send msg to kafka success！partition : 0, offset : 127
+2020/01/14 20:41:12.439 [I]  send msg to kafka success！partition : 0, offset : 128
+2020/01/14 20:41:13.459 [I]  send msg to kafka success！partition : 0, offset : 129
+2020/01/14 20:41:14.473 [I]  send msg to kafka success！partition : 0, offset : 130
+2020/01/14 20:41:15.484 [I]  send msg to kafka success！partition : 0, offset : 131
+2020/01/14 20:41:16.495 [I]  send msg to kafka success！partition : 0, offset : 132
+2020/01/14 20:41:17.503 [I]  send msg to kafka success！partition : 0, offset : 133
+2020/01/14 20:41:18.530 [I]  send msg to kafka success！partition : 0, offset : 134
+2020/01/14 20:41:19.532 [I]  send msg to kafka success！partition : 0, offset : 135
+2020/01/14 20:41:20.552 [I]  send msg to kafka success！partition : 0, offset : 136
+2020/01/14 20:41:21.562 [I]  send msg to kafka success！partition : 0, offset : 137
+2020/01/14 20:41:22.577 [I]  send msg to kafka success！partition : 0, offset : 138
+2020/01/14 20:41:23.596 [I]  send msg to kafka success！partition : 0, offset : 139
+2020/01/14 20:41:24.609 [I]  send msg to kafka success！partition : 0, offset : 140
+2020/01/14 20:41:25.626 [I]  send msg to kafka success！partition : 0, offset : 141
+2020/01/14 20:41:26.646 [I]  send msg to kafka success！partition : 0, offset : 142
+2020/01/14 20:41:27.661 [I]  send msg to kafka success！partition : 0, offset : 143
+2020/01/14 20:41:28.678 [I]  send msg to kafka success！partition : 0, offset : 144
+2020/01/14 20:41:29.435 [I]  send msg to kafka success！partition : 0, offset : 145
+2020/01/14 20:41:30.448 [I]  send msg to kafka success！partition : 0, offset : 146
+2020/01/14 20:41:31.464 [I]  send msg to kafka success！partition : 0, offset : 147
+2020/01/14 20:41:32.467 [I]  send msg to kafka success！partition : 0, offset : 148
+2020/01/14 20:41:33.478 [I]  send msg to kafka success！partition : 0, offset : 149
+2020/01/14 20:41:34.487 [I]  send msg to kafka success！partition : 0, offset : 150
+2020/01/14 20:41:35.500 [I]  send msg to kafka success！partition : 0, offset : 151
+2020/01/14 20:41:36.517 [I]  send msg to kafka success！partition : 0, offset : 152
+2020/01/14 20:41:37.532 [I]  send msg to kafka success！partition : 0, offset : 153
+2020/01/14 20:41:38.548 [I]  send msg to kafka success！partition : 0, offset : 154
+2020/01/14 20:41:39.559 [I]  send msg to kafka success！partition : 0, offset : 155
+2020/01/14 20:41:40.574 [I]  send msg to kafka success！partition : 0, offset : 156
+2020/01/14 20:41:41.587 [I]  send msg to kafka success！partition : 0, offset : 157
