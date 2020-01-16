@@ -21,8 +21,9 @@ func main() {
 	defer cli.Close()
 	fmt.Println("connect success")
 
+	key := "watchKey"
 	ctx, cancel := context.WithTimeout(context.Background(), time.Second*3)
-	_, err = cli.Put(ctx, "/logagent/conf", "confValue")
+	_, err = cli.Put(ctx, key, "123456789")
 	cancel()
 	if err != nil {
 		fmt.Println("put failed, err :", err)
@@ -30,7 +31,7 @@ func main() {
 	}
 
 	ctx, cancel = context.WithTimeout(context.Background(), time.Second*3)
-	getRes, err := cli.Get(ctx, "/logagent/conf")
+	getRes, err := cli.Get(ctx, key)
 	cancel()
 	if err != nil {
 		fmt.Println("get failed, err :", err)
