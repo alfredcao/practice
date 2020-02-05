@@ -4,9 +4,11 @@ import (
 	"fmt"
 	"github.com/astaxie/beego/logs"
 	"oldboyedu/day12/logagent/conf"
+	"oldboyedu/day12/logagent/es"
 	"oldboyedu/day12/logagent/kafka"
 	"oldboyedu/day12/logagent/log"
 	"oldboyedu/day12/logagent/tailf"
+	_ "oldboyedu/day12/logagent/util"
 	"os"
 	"time"
 )
@@ -39,6 +41,16 @@ func main() {
 	fmt.Println("init log success")
 	logs.Info("init log success")
 
+	// 初始化ES组件
+	err = es.InitES()
+	if err != nil {
+		fmt.Println("init es failed, err :", err)
+		return
+	}
+
+	fmt.Println("init es success")
+	logs.Info("init es success")
+
 	// 初始化tail组件
 	err = tailf.InitTailf()
 	if err != nil {
@@ -50,19 +62,26 @@ func main() {
 	logs.Info("init tail success")
 
 	// 初始化kafka组件
-	err = kafka.InitKafka()
+	err = kafka.InitKafkaProducer()
 	if err != nil {
-		fmt.Println("init kafka failed, err :", err)
+		fmt.Println("init kafka producer failed, err :", err)
 		return
 	}
 
-	fmt.Println("init kafka success")
-	logs.Info("init kafka success")
+	fmt.Println("init kafka producer success")
+	logs.Info("init kafka producer success")
+	err = kafka.InitKafkaConsumer()
+	if err != nil {
+		fmt.Println("init kafka consumer failed, err :", err)
+		return
+	}
+
+	fmt.Println("init kafka consumer success")
+	logs.Info("init kafka consumer success")
 
 	go func() {
 		fd, _ := os.OpenFile("./var/log/nginx.log", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0644)
 
-		defer fd.Close()
 		for {
 			now := time.Now().Format("2006-01-02 15:04:05")
 			content := "====== " + now + " =====\n"
@@ -70,6 +89,8 @@ func main() {
 			fd.Write(buf)
 			time.Sleep(time.Second)
 		}
+
+		fd.Close()
 	}()
 
 	time.Sleep(time.Hour)

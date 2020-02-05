@@ -189,3 +189,1646 @@
 2020/01/14 20:41:39.559 [I]  send msg to kafka success！partition : 0, offset : 155
 2020/01/14 20:41:40.574 [I]  send msg to kafka success！partition : 0, offset : 156
 2020/01/14 20:41:41.587 [I]  send msg to kafka success！partition : 0, offset : 157
+2020/01/20 09:42:08.609 [I]  init log success
+2020/02/04 17:19:54.907 [I]  init log success
+2020/02/04 17:41:36.190 [I]  init log success
+2020/02/04 17:44:41.171 [I]  init log success
+2020/02/04 17:46:01.478 [I]  init log success
+2020/02/04 17:46:02.262 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/04 17:46:02.262 [I]  init log file[./var/log/error.log] tail success
+2020/02/04 17:46:04.915 [I]  init tail success
+2020/02/04 17:46:08.209 [I]  init kafka success
+2020/02/04 17:46:10.254 [I]  send msg to kafka success！partition : 0, offset : 0
+2020/02/04 17:46:10.256 [I]  send msg to kafka success！partition : 0, offset : 1
+2020/02/04 17:46:10.257 [I]  send msg to kafka success！partition : 0, offset : 2
+2020/02/04 17:46:10.258 [I]  send msg to kafka success！partition : 0, offset : 3
+2020/02/04 17:46:10.259 [I]  send msg to kafka success！partition : 0, offset : 4
+2020/02/04 17:46:10.260 [I]  send msg to kafka success！partition : 0, offset : 5
+2020/02/04 17:46:10.261 [I]  send msg to kafka success！partition : 0, offset : 6
+2020/02/04 17:46:10.262 [I]  send msg to kafka success！partition : 0, offset : 7
+2020/02/04 17:46:10.264 [I]  send msg to kafka success！partition : 0, offset : 8
+2020/02/04 17:46:10.265 [I]  send msg to kafka success！partition : 0, offset : 9
+2020/02/04 17:46:10.267 [I]  send msg to kafka success！partition : 0, offset : 10
+2020/02/04 17:46:10.268 [I]  send msg to kafka success！partition : 0, offset : 11
+2020/02/04 17:46:10.269 [I]  send msg to kafka success！partition : 0, offset : 12
+2020/02/04 17:46:10.270 [I]  send msg to kafka success！partition : 0, offset : 13
+2020/02/04 17:46:10.270 [I]  send msg to kafka success！partition : 0, offset : 14
+2020/02/04 17:46:10.271 [I]  send msg to kafka success！partition : 0, offset : 15
+2020/02/04 17:46:10.273 [I]  send msg to kafka success！partition : 0, offset : 16
+2020/02/04 17:46:10.274 [I]  send msg to kafka success！partition : 0, offset : 17
+2020/02/04 17:46:10.274 [I]  send msg to kafka success！partition : 0, offset : 18
+2020/02/04 17:46:10.275 [I]  send msg to kafka success！partition : 0, offset : 19
+2020/02/04 17:46:10.276 [I]  send msg to kafka success！partition : 0, offset : 20
+2020/02/04 17:46:10.278 [I]  send msg to kafka success！partition : 0, offset : 21
+2020/02/04 17:46:10.279 [I]  send msg to kafka success！partition : 0, offset : 22
+2020/02/04 17:46:10.280 [I]  send msg to kafka success！partition : 0, offset : 23
+2020/02/04 17:46:10.281 [I]  send msg to kafka success！partition : 0, offset : 24
+2020/02/04 17:46:10.282 [I]  send msg to kafka success！partition : 0, offset : 25
+2020/02/04 17:46:10.283 [I]  send msg to kafka success！partition : 0, offset : 26
+2020/02/04 17:46:10.284 [I]  send msg to kafka success！partition : 0, offset : 27
+2020/02/04 17:46:10.285 [I]  send msg to kafka success！partition : 0, offset : 28
+2020/02/04 17:46:10.287 [I]  send msg to kafka success！partition : 0, offset : 29
+2020/02/04 17:46:10.288 [I]  send msg to kafka success！partition : 0, offset : 30
+2020/02/04 17:46:10.289 [I]  send msg to kafka success！partition : 0, offset : 31
+2020/02/04 17:46:10.290 [I]  send msg to kafka success！partition : 0, offset : 32
+2020/02/04 17:46:10.291 [I]  send msg to kafka success！partition : 0, offset : 33
+2020/02/04 17:46:10.292 [I]  send msg to kafka success！partition : 0, offset : 34
+2020/02/04 17:46:10.293 [I]  send msg to kafka success！partition : 0, offset : 35
+2020/02/04 17:46:10.293 [I]  send msg to kafka success！partition : 0, offset : 36
+2020/02/04 17:46:10.294 [I]  send msg to kafka success！partition : 0, offset : 37
+2020/02/04 17:46:10.296 [I]  send msg to kafka success！partition : 0, offset : 38
+2020/02/04 17:46:10.297 [I]  send msg to kafka success！partition : 0, offset : 39
+2020/02/04 17:46:10.298 [I]  send msg to kafka success！partition : 0, offset : 40
+2020/02/04 17:46:10.299 [I]  send msg to kafka success！partition : 0, offset : 41
+2020/02/04 17:46:10.300 [I]  send msg to kafka success！partition : 0, offset : 42
+2020/02/04 17:46:10.301 [I]  send msg to kafka success！partition : 0, offset : 43
+2020/02/04 17:46:10.301 [I]  send msg to kafka success！partition : 0, offset : 44
+2020/02/04 17:46:10.302 [I]  send msg to kafka success！partition : 0, offset : 45
+2020/02/04 17:46:10.304 [I]  send msg to kafka success！partition : 0, offset : 46
+2020/02/04 17:46:10.305 [I]  send msg to kafka success！partition : 0, offset : 47
+2020/02/04 17:46:10.305 [I]  send msg to kafka success！partition : 0, offset : 48
+2020/02/04 17:46:10.306 [I]  send msg to kafka success！partition : 0, offset : 49
+2020/02/04 17:46:10.307 [I]  send msg to kafka success！partition : 0, offset : 50
+2020/02/04 17:46:10.308 [I]  send msg to kafka success！partition : 0, offset : 51
+2020/02/04 17:46:10.309 [I]  send msg to kafka success！partition : 0, offset : 52
+2020/02/04 17:46:10.310 [I]  send msg to kafka success！partition : 0, offset : 53
+2020/02/04 17:46:10.311 [I]  send msg to kafka success！partition : 0, offset : 54
+2020/02/04 17:46:10.312 [I]  send msg to kafka success！partition : 0, offset : 55
+2020/02/04 17:46:10.313 [I]  send msg to kafka success！partition : 0, offset : 56
+2020/02/04 17:46:10.314 [I]  send msg to kafka success！partition : 0, offset : 57
+2020/02/04 17:46:10.315 [I]  send msg to kafka success！partition : 0, offset : 58
+2020/02/04 17:46:10.316 [I]  send msg to kafka success！partition : 0, offset : 59
+2020/02/04 17:46:10.317 [I]  send msg to kafka success！partition : 0, offset : 60
+2020/02/04 17:46:10.318 [I]  send msg to kafka success！partition : 0, offset : 61
+2020/02/04 17:46:10.321 [I]  send msg to kafka success！partition : 0, offset : 62
+2020/02/04 17:46:10.324 [I]  send msg to kafka success！partition : 0, offset : 63
+2020/02/04 17:46:10.325 [I]  send msg to kafka success！partition : 0, offset : 64
+2020/02/04 17:46:10.326 [I]  send msg to kafka success！partition : 0, offset : 65
+2020/02/04 17:46:10.327 [I]  send msg to kafka success！partition : 0, offset : 66
+2020/02/04 17:46:10.328 [I]  send msg to kafka success！partition : 0, offset : 67
+2020/02/04 17:46:10.329 [I]  send msg to kafka success！partition : 0, offset : 68
+2020/02/04 17:46:10.330 [I]  send msg to kafka success！partition : 0, offset : 69
+2020/02/04 17:46:10.331 [I]  send msg to kafka success！partition : 0, offset : 70
+2020/02/04 17:46:10.332 [I]  send msg to kafka success！partition : 0, offset : 71
+2020/02/04 17:46:10.332 [I]  send msg to kafka success！partition : 0, offset : 72
+2020/02/04 17:46:10.333 [I]  send msg to kafka success！partition : 0, offset : 73
+2020/02/04 17:46:10.334 [I]  send msg to kafka success！partition : 0, offset : 74
+2020/02/04 17:46:10.335 [I]  send msg to kafka success！partition : 0, offset : 75
+2020/02/04 17:46:10.336 [I]  send msg to kafka success！partition : 0, offset : 76
+2020/02/04 17:46:10.337 [I]  send msg to kafka success！partition : 0, offset : 77
+2020/02/04 17:46:10.338 [I]  send msg to kafka success！partition : 0, offset : 78
+2020/02/04 17:46:10.339 [I]  send msg to kafka success！partition : 0, offset : 79
+2020/02/04 17:46:10.340 [I]  send msg to kafka success！partition : 0, offset : 80
+2020/02/04 17:46:10.341 [I]  send msg to kafka success！partition : 0, offset : 81
+2020/02/04 17:46:10.342 [I]  send msg to kafka success！partition : 0, offset : 82
+2020/02/04 17:46:10.344 [I]  send msg to kafka success！partition : 0, offset : 83
+2020/02/04 17:46:10.345 [I]  send msg to kafka success！partition : 0, offset : 84
+2020/02/04 17:46:10.346 [I]  send msg to kafka success！partition : 0, offset : 85
+2020/02/05 16:18:53.667 [I]  init log success
+2020/02/05 16:18:53.667 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 16:18:53.667 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 16:18:53.668 [I]  init tail success
+2020/02/05 16:18:53.758 [I]  init kafka producer success
+2020/02/05 16:18:53.773 [I]  init kafka consumer success
+2020/02/05 16:18:53.807 [I]  send msg to kafka success！partition : 0, offset : 86
+2020/02/05 16:18:53.813 [I]  send msg to kafka success！partition : 0, offset : 87
+2020/02/05 16:18:53.816 [I]  send msg to kafka success！partition : 0, offset : 88
+2020/02/05 16:18:53.818 [I]  send msg to kafka success！partition : 0, offset : 89
+2020/02/05 16:18:53.820 [I]  send msg to kafka success！partition : 0, offset : 90
+2020/02/05 16:18:53.821 [I]  send msg to kafka success！partition : 0, offset : 91
+2020/02/05 16:18:53.822 [I]  send msg to kafka success！partition : 0, offset : 92
+2020/02/05 16:18:53.823 [I]  send msg to kafka success！partition : 0, offset : 93
+2020/02/05 16:18:53.824 [I]  send msg to kafka success！partition : 0, offset : 94
+2020/02/05 16:18:53.825 [I]  send msg to kafka success！partition : 0, offset : 95
+2020/02/05 16:18:53.826 [I]  send msg to kafka success！partition : 0, offset : 96
+2020/02/05 16:18:53.827 [I]  send msg to kafka success！partition : 0, offset : 97
+2020/02/05 16:18:53.828 [I]  send msg to kafka success！partition : 0, offset : 98
+2020/02/05 16:18:53.829 [I]  send msg to kafka success！partition : 0, offset : 99
+2020/02/05 16:18:53.830 [I]  send msg to kafka success！partition : 0, offset : 100
+2020/02/05 16:18:53.831 [I]  send msg to kafka success！partition : 0, offset : 101
+2020/02/05 16:18:53.832 [I]  send msg to kafka success！partition : 0, offset : 102
+2020/02/05 16:18:53.833 [I]  send msg to kafka success！partition : 0, offset : 103
+2020/02/05 16:18:53.835 [I]  send msg to kafka success！partition : 0, offset : 104
+2020/02/05 16:18:53.835 [I]  send msg to kafka success！partition : 0, offset : 105
+2020/02/05 16:18:53.836 [I]  send msg to kafka success！partition : 0, offset : 106
+2020/02/05 16:18:53.837 [I]  send msg to kafka success！partition : 0, offset : 107
+2020/02/05 16:18:53.838 [I]  send msg to kafka success！partition : 0, offset : 108
+2020/02/05 16:18:53.839 [I]  send msg to kafka success！partition : 0, offset : 109
+2020/02/05 16:18:53.841 [I]  send msg to kafka success！partition : 0, offset : 110
+2020/02/05 16:18:53.842 [I]  send msg to kafka success！partition : 0, offset : 111
+2020/02/05 16:18:53.842 [I]  send msg to kafka success！partition : 0, offset : 112
+2020/02/05 16:18:53.843 [I]  send msg to kafka success！partition : 0, offset : 113
+2020/02/05 16:18:53.844 [I]  send msg to kafka success！partition : 0, offset : 114
+2020/02/05 16:18:53.847 [I]  send msg to kafka success！partition : 0, offset : 115
+2020/02/05 16:18:53.849 [I]  send msg to kafka success！partition : 0, offset : 116
+2020/02/05 16:18:53.850 [I]  send msg to kafka success！partition : 0, offset : 117
+2020/02/05 16:18:53.850 [I]  send msg to kafka success！partition : 0, offset : 118
+2020/02/05 16:18:53.852 [I]  send msg to kafka success！partition : 0, offset : 119
+2020/02/05 16:18:53.853 [I]  send msg to kafka success！partition : 0, offset : 120
+2020/02/05 16:18:53.854 [I]  send msg to kafka success！partition : 0, offset : 121
+2020/02/05 16:18:53.855 [I]  send msg to kafka success！partition : 0, offset : 122
+2020/02/05 16:18:53.857 [I]  send msg to kafka success！partition : 0, offset : 123
+2020/02/05 16:18:53.857 [I]  send msg to kafka success！partition : 0, offset : 124
+2020/02/05 16:18:53.858 [I]  send msg to kafka success！partition : 0, offset : 125
+2020/02/05 16:18:53.860 [I]  send msg to kafka success！partition : 0, offset : 126
+2020/02/05 16:18:53.861 [I]  send msg to kafka success！partition : 0, offset : 127
+2020/02/05 16:18:53.864 [I]  send msg to kafka success！partition : 0, offset : 128
+2020/02/05 16:18:53.865 [I]  send msg to kafka success！partition : 0, offset : 129
+2020/02/05 16:18:53.866 [I]  send msg to kafka success！partition : 0, offset : 130
+2020/02/05 16:18:53.867 [I]  send msg to kafka success！partition : 0, offset : 131
+2020/02/05 16:18:53.868 [I]  send msg to kafka success！partition : 0, offset : 132
+2020/02/05 16:18:53.871 [I]  send msg to kafka success！partition : 0, offset : 133
+2020/02/05 16:18:53.872 [I]  send msg to kafka success！partition : 0, offset : 134
+2020/02/05 16:18:53.873 [I]  send msg to kafka success！partition : 0, offset : 135
+2020/02/05 16:18:53.874 [I]  send msg to kafka success！partition : 0, offset : 136
+2020/02/05 16:18:53.875 [I]  send msg to kafka success！partition : 0, offset : 137
+2020/02/05 16:18:53.876 [I]  send msg to kafka success！partition : 0, offset : 138
+2020/02/05 16:18:53.876 [I]  send msg to kafka success！partition : 0, offset : 139
+2020/02/05 16:18:53.877 [I]  send msg to kafka success！partition : 0, offset : 140
+2020/02/05 16:18:53.878 [I]  send msg to kafka success！partition : 0, offset : 141
+2020/02/05 16:18:53.881 [I]  send msg to kafka success！partition : 0, offset : 142
+2020/02/05 16:18:53.882 [I]  send msg to kafka success！partition : 0, offset : 143
+2020/02/05 16:18:53.883 [I]  send msg to kafka success！partition : 0, offset : 144
+2020/02/05 16:18:53.884 [I]  send msg to kafka success！partition : 0, offset : 145
+2020/02/05 16:18:53.885 [I]  send msg to kafka success！partition : 0, offset : 146
+2020/02/05 16:18:53.886 [I]  send msg to kafka success！partition : 0, offset : 147
+2020/02/05 16:18:53.887 [I]  send msg to kafka success！partition : 0, offset : 148
+2020/02/05 16:18:53.887 [I]  send msg to kafka success！partition : 0, offset : 149
+2020/02/05 16:18:53.888 [I]  send msg to kafka success！partition : 0, offset : 150
+2020/02/05 16:18:53.897 [I]  send msg to kafka success！partition : 0, offset : 151
+2020/02/05 16:18:53.905 [I]  send msg to kafka success！partition : 0, offset : 152
+2020/02/05 16:18:53.906 [I]  send msg to kafka success！partition : 0, offset : 153
+2020/02/05 16:18:53.907 [I]  send msg to kafka success！partition : 0, offset : 154
+2020/02/05 16:18:53.909 [I]  send msg to kafka success！partition : 0, offset : 155
+2020/02/05 16:18:53.912 [I]  send msg to kafka success！partition : 0, offset : 156
+2020/02/05 16:18:53.914 [I]  send msg to kafka success！partition : 0, offset : 157
+2020/02/05 16:18:53.916 [I]  send msg to kafka success！partition : 0, offset : 158
+2020/02/05 16:18:53.917 [I]  send msg to kafka success！partition : 0, offset : 159
+2020/02/05 16:18:53.921 [I]  send msg to kafka success！partition : 0, offset : 160
+2020/02/05 16:18:53.924 [I]  send msg to kafka success！partition : 0, offset : 161
+2020/02/05 16:18:53.926 [I]  send msg to kafka success！partition : 0, offset : 162
+2020/02/05 16:18:53.927 [I]  send msg to kafka success！partition : 0, offset : 163
+2020/02/05 16:18:53.928 [I]  send msg to kafka success！partition : 0, offset : 164
+2020/02/05 16:18:53.930 [I]  send msg to kafka success！partition : 0, offset : 165
+2020/02/05 16:18:53.931 [I]  send msg to kafka success！partition : 0, offset : 166
+2020/02/05 16:18:53.932 [I]  send msg to kafka success！partition : 0, offset : 167
+2020/02/05 16:18:53.933 [I]  send msg to kafka success！partition : 0, offset : 168
+2020/02/05 16:18:53.934 [I]  send msg to kafka success！partition : 0, offset : 169
+2020/02/05 16:18:53.936 [I]  send msg to kafka success！partition : 0, offset : 170
+2020/02/05 16:18:53.938 [I]  send msg to kafka success！partition : 0, offset : 171
+2020/02/05 16:18:53.940 [I]  send msg to kafka success！partition : 0, offset : 172
+2020/02/05 16:18:54.930 [I]  send msg to kafka success！partition : 0, offset : 173
+2020/02/05 16:18:55.938 [I]  send msg to kafka success！partition : 0, offset : 174
+2020/02/05 16:18:56.948 [I]  send msg to kafka success！partition : 0, offset : 175
+2020/02/05 16:18:57.957 [I]  send msg to kafka success！partition : 0, offset : 176
+2020/02/05 16:18:58.972 [I]  send msg to kafka success！partition : 0, offset : 177
+2020/02/05 16:18:59.982 [I]  send msg to kafka success！partition : 0, offset : 178
+2020/02/05 16:19:00.994 [I]  send msg to kafka success！partition : 0, offset : 179
+2020/02/05 16:19:02.003 [I]  send msg to kafka success！partition : 0, offset : 180
+2020/02/05 16:19:03.016 [I]  send msg to kafka success！partition : 0, offset : 181
+2020/02/05 16:20:47.761 [I]  init log success
+2020/02/05 16:20:47.761 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 16:20:47.761 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 16:20:47.761 [I]  init tail success
+2020/02/05 16:20:47.765 [I]  init kafka producer success
+2020/02/05 16:21:07.066 [I]  init kafka consumer success
+2020/02/05 16:21:10.658 [I]  send msg to kafka success！partition : 0, offset : 182
+2020/02/05 16:21:11.413 [I]  send msg to kafka success！partition : 0, offset : 183
+2020/02/05 16:21:12.424 [I]  send msg to kafka success！partition : 0, offset : 184
+2020/02/05 16:21:13.439 [I]  send msg to kafka success！partition : 0, offset : 185
+2020/02/05 16:21:14.443 [I]  send msg to kafka success！partition : 0, offset : 186
+2020/02/05 16:21:15.460 [I]  send msg to kafka success！partition : 0, offset : 187
+2020/02/05 16:21:16.465 [I]  send msg to kafka success！partition : 0, offset : 188
+2020/02/05 16:21:17.471 [I]  send msg to kafka success！partition : 0, offset : 189
+2020/02/05 16:21:18.487 [I]  send msg to kafka success！partition : 0, offset : 190
+2020/02/05 16:21:19.493 [I]  send msg to kafka success！partition : 0, offset : 191
+2020/02/05 16:21:20.506 [I]  send msg to kafka success！partition : 0, offset : 192
+2020/02/05 16:21:21.517 [I]  send msg to kafka success！partition : 0, offset : 193
+2020/02/05 16:21:22.522 [I]  send msg to kafka success！partition : 0, offset : 194
+2020/02/05 16:21:23.532 [I]  send msg to kafka success！partition : 0, offset : 195
+2020/02/05 16:21:24.546 [I]  send msg to kafka success！partition : 0, offset : 196
+2020/02/05 16:21:25.559 [I]  send msg to kafka success！partition : 0, offset : 197
+2020/02/05 16:21:26.564 [I]  send msg to kafka success！partition : 0, offset : 198
+2020/02/05 16:21:27.567 [I]  send msg to kafka success！partition : 0, offset : 199
+2020/02/05 16:23:14.545 [I]  init log success
+2020/02/05 16:23:14.545 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 16:23:14.545 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 16:23:14.545 [I]  init tail success
+2020/02/05 16:23:14.548 [I]  init kafka producer success
+2020/02/05 16:23:14.552 [I]  init kafka consumer success
+2020/02/05 16:23:14.552 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 16:23:14.804 [I]  send msg to kafka success！partition : 0, offset : 200
+2020/02/05 16:23:15.808 [I]  send msg to kafka success！partition : 0, offset : 201
+2020/02/05 16:23:16.816 [I]  send msg to kafka success！partition : 0, offset : 202
+2020/02/05 16:23:17.574 [I]  send msg to kafka success！partition : 0, offset : 203
+2020/02/05 16:23:18.583 [I]  send msg to kafka success！partition : 0, offset : 204
+2020/02/05 16:23:19.598 [I]  send msg to kafka success！partition : 0, offset : 205
+2020/02/05 16:23:20.603 [I]  send msg to kafka success！partition : 0, offset : 206
+2020/02/05 16:23:21.608 [I]  send msg to kafka success！partition : 0, offset : 207
+2020/02/05 16:23:22.614 [I]  send msg to kafka success！partition : 0, offset : 208
+2020/02/05 16:23:23.627 [I]  send msg to kafka success！partition : 0, offset : 209
+2020/02/05 16:23:24.635 [I]  send msg to kafka success！partition : 0, offset : 210
+2020/02/05 16:23:25.651 [I]  send msg to kafka success！partition : 0, offset : 211
+2020/02/05 16:23:26.665 [I]  send msg to kafka success！partition : 0, offset : 212
+2020/02/05 16:23:27.670 [I]  send msg to kafka success！partition : 0, offset : 213
+2020/02/05 16:23:28.681 [I]  send msg to kafka success！partition : 0, offset : 214
+2020/02/05 16:23:29.688 [I]  send msg to kafka success！partition : 0, offset : 215
+2020/02/05 16:23:30.704 [I]  send msg to kafka success！partition : 0, offset : 216
+2020/02/05 16:23:31.715 [I]  send msg to kafka success！partition : 0, offset : 217
+2020/02/05 16:23:32.728 [I]  send msg to kafka success！partition : 0, offset : 218
+2020/02/05 16:23:33.743 [I]  send msg to kafka success！partition : 0, offset : 219
+2020/02/05 16:23:34.751 [I]  send msg to kafka success！partition : 0, offset : 220
+2020/02/05 16:23:35.759 [I]  send msg to kafka success！partition : 0, offset : 221
+2020/02/05 16:23:36.767 [I]  send msg to kafka success！partition : 0, offset : 222
+2020/02/05 16:23:37.775 [I]  send msg to kafka success！partition : 0, offset : 223
+2020/02/05 16:23:38.782 [I]  send msg to kafka success！partition : 0, offset : 224
+2020/02/05 16:23:39.787 [I]  send msg to kafka success！partition : 0, offset : 225
+2020/02/05 16:33:02.868 [I]  init log success
+2020/02/05 16:33:02.868 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 16:33:02.868 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 16:33:02.868 [I]  init tail success
+2020/02/05 16:33:02.881 [I]  init kafka producer success
+2020/02/05 16:33:02.887 [I]  init kafka consumer success
+2020/02/05 16:33:02.887 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 16:33:02.889 [I]  send msg to kafka success！partition : 0, offset : 226
+2020/02/05 16:33:02.891 [I]  send msg to kafka success！partition : 0, offset : 227
+2020/02/05 16:33:02.892 [I]  send msg to kafka success！partition : 0, offset : 228
+2020/02/05 16:33:02.893 [I]  send msg to kafka success！partition : 0, offset : 229
+2020/02/05 16:33:02.894 [I]  send msg to kafka success！partition : 0, offset : 230
+2020/02/05 16:33:02.895 [I]  send msg to kafka success！partition : 0, offset : 231
+2020/02/05 16:33:02.896 [I]  send msg to kafka success！partition : 0, offset : 232
+2020/02/05 16:33:02.897 [I]  send msg to kafka success！partition : 0, offset : 233
+2020/02/05 16:33:02.897 [I]  send msg to kafka success！partition : 0, offset : 234
+2020/02/05 16:33:02.898 [I]  send msg to kafka success！partition : 0, offset : 235
+2020/02/05 16:33:02.899 [I]  send msg to kafka success！partition : 0, offset : 236
+2020/02/05 16:33:02.900 [I]  send msg to kafka success！partition : 0, offset : 237
+2020/02/05 16:33:02.900 [I]  send msg to kafka success！partition : 0, offset : 238
+2020/02/05 16:33:02.901 [I]  send msg to kafka success！partition : 0, offset : 239
+2020/02/05 16:33:02.903 [I]  send msg to kafka success！partition : 0, offset : 240
+2020/02/05 16:33:02.904 [I]  send msg to kafka success！partition : 0, offset : 241
+2020/02/05 16:33:02.905 [I]  send msg to kafka success！partition : 0, offset : 242
+2020/02/05 16:33:02.905 [I]  send msg to kafka success！partition : 0, offset : 243
+2020/02/05 16:33:02.906 [I]  send msg to kafka success！partition : 0, offset : 244
+2020/02/05 16:33:02.906 [I]  send msg to kafka success！partition : 0, offset : 245
+2020/02/05 16:33:02.907 [I]  send msg to kafka success！partition : 0, offset : 246
+2020/02/05 16:33:02.908 [I]  send msg to kafka success！partition : 0, offset : 247
+2020/02/05 16:33:02.908 [I]  send msg to kafka success！partition : 0, offset : 248
+2020/02/05 16:33:02.909 [I]  send msg to kafka success！partition : 0, offset : 249
+2020/02/05 16:33:02.910 [I]  send msg to kafka success！partition : 0, offset : 250
+2020/02/05 16:33:02.910 [I]  send msg to kafka success！partition : 0, offset : 251
+2020/02/05 16:33:03.121 [I]  send msg to kafka success！partition : 0, offset : 252
+2020/02/05 16:33:04.132 [I]  send msg to kafka success！partition : 0, offset : 253
+2020/02/05 16:33:05.142 [I]  send msg to kafka success！partition : 0, offset : 254
+2020/02/05 16:33:05.901 [I]  send msg to kafka success！partition : 0, offset : 255
+2020/02/05 16:33:06.915 [I]  send msg to kafka success！partition : 0, offset : 256
+2020/02/05 16:33:07.928 [I]  send msg to kafka success！partition : 0, offset : 257
+2020/02/05 16:33:08.937 [I]  send msg to kafka success！partition : 0, offset : 258
+2020/02/05 16:33:09.949 [I]  send msg to kafka success！partition : 0, offset : 259
+2020/02/05 16:33:10.963 [I]  send msg to kafka success！partition : 0, offset : 260
+2020/02/05 16:33:11.968 [I]  send msg to kafka success！partition : 0, offset : 261
+2020/02/05 16:33:12.975 [I]  send msg to kafka success！partition : 0, offset : 262
+2020/02/05 16:33:13.987 [I]  send msg to kafka success！partition : 0, offset : 263
+2020/02/05 16:33:14.991 [I]  send msg to kafka success！partition : 0, offset : 264
+2020/02/05 16:33:15.995 [I]  send msg to kafka success！partition : 0, offset : 265
+2020/02/05 16:33:17.012 [I]  send msg to kafka success！partition : 0, offset : 266
+2020/02/05 16:33:18.013 [I]  send msg to kafka success！partition : 0, offset : 267
+2020/02/05 16:33:19.024 [I]  send msg to kafka success！partition : 0, offset : 268
+2020/02/05 16:33:20.034 [I]  send msg to kafka success！partition : 0, offset : 269
+2020/02/05 16:33:21.046 [I]  send msg to kafka success！partition : 0, offset : 270
+2020/02/05 16:33:22.056 [I]  send msg to kafka success！partition : 0, offset : 271
+2020/02/05 16:33:23.057 [I]  send msg to kafka success！partition : 0, offset : 272
+2020/02/05 16:33:24.063 [I]  send msg to kafka success！partition : 0, offset : 273
+2020/02/05 16:33:25.067 [I]  send msg to kafka success！partition : 0, offset : 274
+2020/02/05 16:33:26.080 [I]  send msg to kafka success！partition : 0, offset : 275
+2020/02/05 16:33:27.089 [I]  send msg to kafka success！partition : 0, offset : 276
+2020/02/05 16:33:28.099 [I]  send msg to kafka success！partition : 0, offset : 277
+2020/02/05 16:33:29.105 [I]  send msg to kafka success！partition : 0, offset : 278
+2020/02/05 16:33:30.117 [I]  send msg to kafka success！partition : 0, offset : 279
+2020/02/05 16:33:31.128 [I]  send msg to kafka success！partition : 0, offset : 280
+2020/02/05 16:33:32.140 [I]  send msg to kafka success！partition : 0, offset : 281
+2020/02/05 16:33:33.156 [I]  send msg to kafka success！partition : 0, offset : 282
+2020/02/05 16:33:34.164 [I]  send msg to kafka success！partition : 0, offset : 283
+2020/02/05 16:33:35.171 [I]  send msg to kafka success！partition : 0, offset : 284
+2020/02/05 16:33:36.175 [I]  send msg to kafka success！partition : 0, offset : 285
+2020/02/05 16:33:37.188 [I]  send msg to kafka success！partition : 0, offset : 286
+2020/02/05 16:33:38.197 [I]  send msg to kafka success！partition : 0, offset : 287
+2020/02/05 16:33:39.209 [I]  send msg to kafka success！partition : 0, offset : 288
+2020/02/05 16:33:40.222 [I]  send msg to kafka success！partition : 0, offset : 289
+2020/02/05 16:33:41.227 [I]  send msg to kafka success！partition : 0, offset : 290
+2020/02/05 16:33:41.976 [I]  send msg to kafka success！partition : 0, offset : 291
+2020/02/05 16:33:42.984 [I]  send msg to kafka success！partition : 0, offset : 292
+2020/02/05 16:33:43.994 [I]  send msg to kafka success！partition : 0, offset : 293
+2020/02/05 16:33:44.997 [I]  send msg to kafka success！partition : 0, offset : 294
+2020/02/05 16:33:46.002 [I]  send msg to kafka success！partition : 0, offset : 295
+2020/02/05 16:33:47.017 [I]  send msg to kafka success！partition : 0, offset : 296
+2020/02/05 16:33:48.029 [I]  send msg to kafka success！partition : 0, offset : 297
+2020/02/05 16:33:49.039 [I]  send msg to kafka success！partition : 0, offset : 298
+2020/02/05 16:33:50.051 [I]  send msg to kafka success！partition : 0, offset : 299
+2020/02/05 16:33:51.063 [I]  send msg to kafka success！partition : 0, offset : 300
+2020/02/05 16:33:52.068 [I]  send msg to kafka success！partition : 0, offset : 301
+2020/02/05 16:33:53.078 [I]  send msg to kafka success！partition : 0, offset : 302
+2020/02/05 16:33:54.087 [I]  send msg to kafka success！partition : 0, offset : 303
+2020/02/05 16:33:55.094 [I]  send msg to kafka success！partition : 0, offset : 304
+2020/02/05 16:33:56.105 [I]  send msg to kafka success！partition : 0, offset : 305
+2020/02/05 16:33:57.114 [I]  send msg to kafka success！partition : 0, offset : 306
+2020/02/05 16:33:58.122 [I]  send msg to kafka success！partition : 0, offset : 307
+2020/02/05 16:33:59.139 [I]  send msg to kafka success！partition : 0, offset : 308
+2020/02/05 16:34:00.151 [I]  send msg to kafka success！partition : 0, offset : 309
+2020/02/05 16:34:01.156 [I]  send msg to kafka success！partition : 0, offset : 310
+2020/02/05 16:34:02.163 [I]  send msg to kafka success！partition : 0, offset : 311
+2020/02/05 16:34:03.173 [I]  send msg to kafka success！partition : 0, offset : 312
+2020/02/05 16:34:04.184 [I]  send msg to kafka success！partition : 0, offset : 313
+2020/02/05 17:02:15.988 [I]  init log success
+2020/02/05 17:02:15.988 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:02:15.988 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:02:15.988 [I]  init tail success
+2020/02/05 17:02:16.004 [I]  init kafka producer success
+2020/02/05 17:02:16.007 [I]  init kafka consumer success
+2020/02/05 17:02:16.007 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 17:02:16.010 [I]  send msg to kafka success！partition : 0, offset : 314
+2020/02/05 17:02:16.011 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 17:02:16.011 [I]  send msg to kafka success！partition : 0, offset : 315
+2020/02/05 17:02:16.012 [I]  send msg to kafka success！partition : 0, offset : 316
+2020/02/05 17:02:16.013 [I]  send msg to kafka success！partition : 0, offset : 317
+2020/02/05 17:02:16.013 [I]  send msg to kafka success！partition : 0, offset : 318
+2020/02/05 17:02:16.014 [I]  send msg to kafka success！partition : 0, offset : 319
+2020/02/05 17:02:16.015 [I]  send msg to kafka success！partition : 0, offset : 320
+2020/02/05 17:02:16.017 [I]  send msg to kafka success！partition : 0, offset : 321
+2020/02/05 17:02:16.019 [I]  send msg to kafka success！partition : 0, offset : 322
+2020/02/05 17:02:16.021 [I]  send msg to kafka success！partition : 0, offset : 323
+2020/02/05 17:02:16.024 [I]  send msg to kafka success！partition : 0, offset : 324
+2020/02/05 17:02:16.025 [I]  send msg to kafka success！partition : 0, offset : 325
+2020/02/05 17:02:16.027 [I]  send msg to kafka success！partition : 0, offset : 326
+2020/02/05 17:02:16.030 [I]  send msg to kafka success！partition : 0, offset : 327
+2020/02/05 17:02:16.031 [I]  send msg to kafka success！partition : 0, offset : 328
+2020/02/05 17:02:16.032 [I]  send msg to kafka success！partition : 0, offset : 329
+2020/02/05 17:02:16.032 [I]  send msg to kafka success！partition : 0, offset : 330
+2020/02/05 17:02:16.033 [I]  send msg to kafka success！partition : 0, offset : 331
+2020/02/05 17:02:16.033 [I]  send msg to kafka success！partition : 0, offset : 332
+2020/02/05 17:02:16.034 [I]  send msg to kafka success！partition : 0, offset : 333
+2020/02/05 17:02:16.035 [I]  send msg to kafka success！partition : 0, offset : 334
+2020/02/05 17:02:16.036 [I]  send msg to kafka success！partition : 0, offset : 335
+2020/02/05 17:02:16.036 [I]  send msg to kafka success！partition : 0, offset : 336
+2020/02/05 17:02:16.037 [I]  send msg to kafka success！partition : 0, offset : 337
+2020/02/05 17:02:16.038 [I]  send msg to kafka success！partition : 0, offset : 338
+2020/02/05 17:02:16.038 [I]  send msg to kafka success！partition : 0, offset : 339
+2020/02/05 17:02:16.039 [I]  send msg to kafka success！partition : 0, offset : 340
+2020/02/05 17:02:16.040 [I]  send msg to kafka success！partition : 0, offset : 341
+2020/02/05 17:02:16.041 [I]  send msg to kafka success！partition : 0, offset : 342
+2020/02/05 17:02:16.044 [I]  send msg to kafka success！partition : 0, offset : 343
+2020/02/05 17:02:16.044 [I]  send msg to kafka success！partition : 0, offset : 344
+2020/02/05 17:02:16.045 [I]  send msg to kafka success！partition : 0, offset : 345
+2020/02/05 17:02:16.045 [I]  send msg to kafka success！partition : 0, offset : 346
+2020/02/05 17:02:16.046 [I]  send msg to kafka success！partition : 0, offset : 347
+2020/02/05 17:02:16.046 [I]  send msg to kafka success！partition : 0, offset : 348
+2020/02/05 17:02:16.047 [I]  send msg to kafka success！partition : 0, offset : 349
+2020/02/05 17:02:16.047 [I]  send msg to kafka success！partition : 0, offset : 350
+2020/02/05 17:02:16.048 [I]  send msg to kafka success！partition : 0, offset : 351
+2020/02/05 17:02:16.048 [I]  send msg to kafka success！partition : 0, offset : 352
+2020/02/05 17:02:16.050 [I]  send msg to kafka success！partition : 0, offset : 353
+2020/02/05 17:02:16.051 [I]  send msg to kafka success！partition : 0, offset : 354
+2020/02/05 17:02:16.051 [I]  send msg to kafka success！partition : 0, offset : 355
+2020/02/05 17:02:16.052 [I]  send msg to kafka success！partition : 0, offset : 356
+2020/02/05 17:02:16.052 [I]  send msg to kafka success！partition : 0, offset : 357
+2020/02/05 17:02:16.053 [I]  send msg to kafka success！partition : 0, offset : 358
+2020/02/05 17:02:16.054 [I]  send msg to kafka success！partition : 0, offset : 359
+2020/02/05 17:02:16.054 [I]  send msg to kafka success！partition : 0, offset : 360
+2020/02/05 17:02:16.054 [I]  send msg to kafka success！partition : 0, offset : 361
+2020/02/05 17:02:16.055 [I]  send msg to kafka success！partition : 0, offset : 362
+2020/02/05 17:02:16.055 [I]  send msg to kafka success！partition : 0, offset : 363
+2020/02/05 17:02:16.056 [I]  send msg to kafka success！partition : 0, offset : 364
+2020/02/05 17:02:16.056 [I]  send msg to kafka success！partition : 0, offset : 365
+2020/02/05 17:02:16.057 [I]  send msg to kafka success！partition : 0, offset : 366
+2020/02/05 17:02:16.057 [I]  send msg to kafka success！partition : 0, offset : 367
+2020/02/05 17:02:16.058 [I]  send msg to kafka success！partition : 0, offset : 368
+2020/02/05 17:02:16.058 [I]  send msg to kafka success！partition : 0, offset : 369
+2020/02/05 17:02:16.059 [I]  send msg to kafka success！partition : 0, offset : 370
+2020/02/05 17:02:16.061 [I]  send msg to kafka success！partition : 0, offset : 371
+2020/02/05 17:02:16.063 [I]  send msg to kafka success！partition : 0, offset : 372
+2020/02/05 17:02:16.064 [I]  send msg to kafka success！partition : 0, offset : 373
+2020/02/05 17:02:16.066 [I]  send msg to kafka success！partition : 0, offset : 374
+2020/02/05 17:02:16.067 [I]  send msg to kafka success！partition : 0, offset : 375
+2020/02/05 17:02:16.067 [I]  send msg to kafka success！partition : 0, offset : 376
+2020/02/05 17:02:16.068 [I]  send msg to kafka success！partition : 0, offset : 377
+2020/02/05 17:02:16.068 [I]  send msg to kafka success！partition : 0, offset : 378
+2020/02/05 17:02:16.069 [I]  send msg to kafka success！partition : 0, offset : 379
+2020/02/05 17:02:16.069 [I]  send msg to kafka success！partition : 0, offset : 380
+2020/02/05 17:02:16.070 [I]  send msg to kafka success！partition : 0, offset : 381
+2020/02/05 17:02:16.070 [I]  send msg to kafka success！partition : 0, offset : 382
+2020/02/05 17:02:16.071 [I]  send msg to kafka success！partition : 0, offset : 383
+2020/02/05 17:02:16.071 [I]  send msg to kafka success！partition : 0, offset : 384
+2020/02/05 17:02:16.072 [I]  send msg to kafka success！partition : 0, offset : 385
+2020/02/05 17:02:16.072 [I]  send msg to kafka success！partition : 0, offset : 386
+2020/02/05 17:02:16.073 [I]  send msg to kafka success！partition : 0, offset : 387
+2020/02/05 17:02:16.073 [I]  send msg to kafka success！partition : 0, offset : 388
+2020/02/05 17:02:16.073 [I]  send msg to kafka success！partition : 0, offset : 389
+2020/02/05 17:02:16.074 [I]  send msg to kafka success！partition : 0, offset : 390
+2020/02/05 17:02:16.074 [I]  send msg to kafka success！partition : 0, offset : 391
+2020/02/05 17:02:16.075 [I]  send msg to kafka success！partition : 0, offset : 392
+2020/02/05 17:02:16.075 [I]  send msg to kafka success！partition : 0, offset : 393
+2020/02/05 17:02:16.076 [I]  send msg to kafka success！partition : 0, offset : 394
+2020/02/05 17:02:16.076 [I]  send msg to kafka success！partition : 0, offset : 395
+2020/02/05 17:02:16.076 [I]  send msg to kafka success！partition : 0, offset : 396
+2020/02/05 17:02:16.078 [I]  send msg to kafka success！partition : 0, offset : 397
+2020/02/05 17:02:16.079 [I]  send msg to kafka success！partition : 0, offset : 398
+2020/02/05 17:02:16.080 [I]  send msg to kafka success！partition : 0, offset : 399
+2020/02/05 17:02:16.081 [I]  send msg to kafka success！partition : 0, offset : 400
+2020/02/05 17:02:16.082 [I]  send msg to kafka success！partition : 0, offset : 401
+2020/02/05 17:02:16.242 [I]  send msg to kafka success！partition : 0, offset : 402
+2020/02/05 17:02:17.250 [I]  send msg to kafka success！partition : 0, offset : 403
+2020/02/05 17:02:18.267 [I]  send msg to kafka success！partition : 0, offset : 404
+2020/02/05 17:02:19.025 [I]  send msg to kafka success！partition : 0, offset : 405
+2020/02/05 17:02:20.033 [I]  send msg to kafka success！partition : 0, offset : 406
+2020/02/05 17:02:21.046 [I]  send msg to kafka success！partition : 0, offset : 407
+2020/02/05 17:02:22.047 [I]  send msg to kafka success！partition : 0, offset : 408
+2020/02/05 17:02:23.057 [I]  send msg to kafka success！partition : 0, offset : 409
+2020/02/05 17:02:24.063 [I]  send msg to kafka success！partition : 0, offset : 410
+2020/02/05 17:02:25.071 [I]  send msg to kafka success！partition : 0, offset : 411
+2020/02/05 17:02:26.083 [I]  send msg to kafka success！partition : 0, offset : 412
+2020/02/05 17:02:27.091 [I]  send msg to kafka success！partition : 0, offset : 413
+2020/02/05 17:02:28.096 [I]  send msg to kafka success！partition : 0, offset : 414
+2020/02/05 17:02:29.109 [I]  send msg to kafka success！partition : 0, offset : 415
+2020/02/05 17:02:30.118 [I]  send msg to kafka success！partition : 0, offset : 416
+2020/02/05 17:02:31.123 [I]  send msg to kafka success！partition : 0, offset : 417
+2020/02/05 17:02:32.135 [I]  send msg to kafka success！partition : 0, offset : 418
+2020/02/05 17:02:33.149 [I]  send msg to kafka success！partition : 0, offset : 419
+2020/02/05 17:02:34.167 [I]  send msg to kafka success！partition : 0, offset : 420
+2020/02/05 17:02:35.177 [I]  send msg to kafka success！partition : 0, offset : 421
+2020/02/05 17:02:36.187 [I]  send msg to kafka success！partition : 0, offset : 422
+2020/02/05 17:02:37.195 [I]  send msg to kafka success！partition : 0, offset : 423
+2020/02/05 17:03:58.735 [I]  init log success
+2020/02/05 17:03:58.735 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:03:58.735 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:03:58.736 [I]  init tail success
+2020/02/05 17:03:58.738 [I]  init kafka producer success
+2020/02/05 17:03:58.742 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 424
+2020/02/05 17:03:58.743 [I]  init kafka consumer success
+2020/02/05 17:03:58.743 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 17:03:58.743 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 425
+2020/02/05 17:03:58.744 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 426
+2020/02/05 17:03:58.745 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 427
+2020/02/05 17:03:58.745 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 17:03:58.746 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 428
+2020/02/05 17:03:58.746 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 429
+2020/02/05 17:03:58.747 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 430
+2020/02/05 17:03:58.747 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 431
+2020/02/05 17:03:58.747 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 432
+2020/02/05 17:03:58.748 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 433
+2020/02/05 17:03:58.748 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 434
+2020/02/05 17:03:58.749 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 435
+2020/02/05 17:03:58.749 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 436
+2020/02/05 17:03:58.750 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 437
+2020/02/05 17:03:58.751 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 438
+2020/02/05 17:03:58.752 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 439
+2020/02/05 17:03:58.754 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 440
+2020/02/05 17:03:58.755 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 441
+2020/02/05 17:03:58.755 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 442
+2020/02/05 17:03:58.756 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 443
+2020/02/05 17:03:58.757 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 444
+2020/02/05 17:03:58.758 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 445
+2020/02/05 17:03:58.759 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 446
+2020/02/05 17:03:58.762 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 447
+2020/02/05 17:03:58.763 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 448
+2020/02/05 17:03:58.764 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 449
+2020/02/05 17:03:58.766 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 450
+2020/02/05 17:03:58.767 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 451
+2020/02/05 17:03:58.767 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 452
+2020/02/05 17:03:58.768 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 453
+2020/02/05 17:03:58.768 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 454
+2020/02/05 17:03:58.769 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 455
+2020/02/05 17:03:58.769 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 456
+2020/02/05 17:03:58.770 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 457
+2020/02/05 17:03:58.770 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 458
+2020/02/05 17:03:58.771 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 459
+2020/02/05 17:03:58.771 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 460
+2020/02/05 17:03:58.772 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 461
+2020/02/05 17:03:58.773 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 462
+2020/02/05 17:03:58.773 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 463
+2020/02/05 17:03:58.774 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 464
+2020/02/05 17:03:58.774 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 465
+2020/02/05 17:03:58.775 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 466
+2020/02/05 17:03:58.775 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 467
+2020/02/05 17:03:58.775 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 468
+2020/02/05 17:03:58.776 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 469
+2020/02/05 17:03:58.777 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 470
+2020/02/05 17:03:58.777 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 471
+2020/02/05 17:03:58.777 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 472
+2020/02/05 17:03:58.778 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 473
+2020/02/05 17:03:58.778 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 474
+2020/02/05 17:03:58.779 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 475
+2020/02/05 17:03:58.779 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 476
+2020/02/05 17:03:58.780 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 477
+2020/02/05 17:03:58.780 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 478
+2020/02/05 17:03:58.781 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 479
+2020/02/05 17:03:58.781 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 480
+2020/02/05 17:03:58.782 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 481
+2020/02/05 17:03:58.782 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 482
+2020/02/05 17:03:58.783 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 483
+2020/02/05 17:03:58.783 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 484
+2020/02/05 17:03:58.784 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 485
+2020/02/05 17:03:58.784 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 486
+2020/02/05 17:03:58.784 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 487
+2020/02/05 17:03:58.785 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 488
+2020/02/05 17:03:58.786 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 489
+2020/02/05 17:03:58.786 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 490
+2020/02/05 17:03:58.787 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 491
+2020/02/05 17:03:58.788 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 492
+2020/02/05 17:03:58.790 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 493
+2020/02/05 17:03:58.790 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 494
+2020/02/05 17:03:58.791 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 495
+2020/02/05 17:03:58.792 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 496
+2020/02/05 17:03:58.794 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 497
+2020/02/05 17:03:58.794 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 498
+2020/02/05 17:03:58.795 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 499
+2020/02/05 17:03:58.796 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 500
+2020/02/05 17:03:58.796 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 501
+2020/02/05 17:03:58.797 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 502
+2020/02/05 17:03:58.797 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 503
+2020/02/05 17:03:58.798 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 504
+2020/02/05 17:03:58.798 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 505
+2020/02/05 17:03:58.798 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 506
+2020/02/05 17:03:58.799 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 507
+2020/02/05 17:03:58.799 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 508
+2020/02/05 17:03:58.800 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 509
+2020/02/05 17:03:58.801 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 510
+2020/02/05 17:03:58.802 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 511
+2020/02/05 17:03:58.803 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 512
+2020/02/05 17:03:58.803 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 513
+2020/02/05 17:03:58.804 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 514
+2020/02/05 17:03:58.804 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 515
+2020/02/05 17:03:58.804 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 516
+2020/02/05 17:03:58.805 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 517
+2020/02/05 17:03:58.805 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 518
+2020/02/05 17:03:58.806 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 519
+2020/02/05 17:03:58.806 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 520
+2020/02/05 17:03:58.806 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 521
+2020/02/05 17:03:58.807 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 522
+2020/02/05 17:03:58.807 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 523
+2020/02/05 17:03:58.808 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 524
+2020/02/05 17:03:58.808 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 525
+2020/02/05 17:03:58.808 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 526
+2020/02/05 17:03:58.809 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 527
+2020/02/05 17:03:58.809 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 528
+2020/02/05 17:03:58.810 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 529
+2020/02/05 17:03:58.810 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 530
+2020/02/05 17:03:58.811 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 531
+2020/02/05 17:03:58.811 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 532
+2020/02/05 17:03:58.811 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 533
+2020/02/05 17:03:58.812 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 534
+2020/02/05 17:03:59.755 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 535
+2020/02/05 17:04:00.762 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 536
+2020/02/05 17:04:01.767 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 537
+2020/02/05 17:04:02.781 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 538
+2020/02/05 17:04:03.797 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 539
+2020/02/05 17:04:04.806 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 540
+2020/02/05 17:04:05.812 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 541
+2020/02/05 17:04:06.818 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 542
+2020/02/05 17:04:07.824 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 543
+2020/02/05 17:04:08.829 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 544
+2020/02/05 17:04:09.835 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 545
+2020/02/05 17:04:10.845 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 546
+2020/02/05 17:04:11.852 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 547
+2020/02/05 17:04:12.866 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 548
+2020/02/05 17:06:45.256 [I]  init log success
+2020/02/05 17:07:23.845 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:07:45.669 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:07:45.669 [I]  init tail success
+2020/02/05 17:07:45.672 [I]  init kafka producer success
+2020/02/05 17:07:45.674 [I]  init kafka consumer success
+2020/02/05 17:07:45.674 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 17:07:45.690 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 17:07:45.691 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 158
+2020/02/05 17:07:45.692 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 159
+2020/02/05 17:07:45.693 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 160
+2020/02/05 17:07:45.696 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 161
+2020/02/05 17:07:45.697 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 162
+2020/02/05 17:07:45.699 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 549
+2020/02/05 17:07:45.699 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 550
+2020/02/05 17:07:45.700 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 551
+2020/02/05 17:07:45.701 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 552
+2020/02/05 17:07:45.702 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 553
+2020/02/05 17:07:45.703 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 554
+2020/02/05 17:07:45.706 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 555
+2020/02/05 17:07:45.706 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=158), value -> %!(EXTRA string======= 2020-02-05 16:23:14 =====)
+2020/02/05 17:07:45.707 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 556
+2020/02/05 17:07:45.707 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=159), value -> %!(EXTRA string======= 2020-02-05 16:23:15 =====)
+2020/02/05 17:07:45.707 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=160), value -> %!(EXTRA string======= 2020-02-05 16:23:16 =====)
+2020/02/05 17:07:45.707 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=161), value -> %!(EXTRA string======= 2020-02-05 16:23:17 =====)
+2020/02/05 17:07:45.707 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=162), value -> %!(EXTRA string======= 2020-02-05 16:23:18 =====)
+2020/02/05 17:07:45.708 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 557
+2020/02/05 17:07:45.708 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 558
+2020/02/05 17:07:45.709 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 559
+2020/02/05 17:07:45.709 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 560
+2020/02/05 17:07:45.710 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 561
+2020/02/05 17:07:45.710 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 562
+2020/02/05 17:07:45.711 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 563
+2020/02/05 17:07:45.712 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 564
+2020/02/05 17:07:45.712 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 565
+2020/02/05 17:07:45.713 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 566
+2020/02/05 17:07:45.714 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 567
+2020/02/05 17:07:45.714 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 568
+2020/02/05 17:07:45.715 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 569
+2020/02/05 17:07:45.715 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 570
+2020/02/05 17:07:45.716 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 571
+2020/02/05 17:07:45.716 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 572
+2020/02/05 17:07:45.717 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 573
+2020/02/05 17:07:45.717 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 574
+2020/02/05 17:07:45.718 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 575
+2020/02/05 17:07:45.719 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 576
+2020/02/05 17:07:45.720 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 577
+2020/02/05 17:07:45.721 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 578
+2020/02/05 17:07:45.721 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 579
+2020/02/05 17:07:45.722 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 580
+2020/02/05 17:07:45.722 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 581
+2020/02/05 17:07:45.723 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 582
+2020/02/05 17:07:45.723 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 583
+2020/02/05 17:07:45.724 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 584
+2020/02/05 17:07:45.725 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 585
+2020/02/05 17:07:45.726 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 586
+2020/02/05 17:07:45.727 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 587
+2020/02/05 17:07:45.728 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 588
+2020/02/05 17:07:45.728 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 589
+2020/02/05 17:07:45.729 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 590
+2020/02/05 17:07:45.730 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 591
+2020/02/05 17:07:45.730 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 592
+2020/02/05 17:07:45.731 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 593
+2020/02/05 17:07:45.731 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 594
+2020/02/05 17:07:45.732 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 595
+2020/02/05 17:07:45.732 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 596
+2020/02/05 17:07:45.733 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 597
+2020/02/05 17:07:45.733 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 598
+2020/02/05 17:07:45.734 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 599
+2020/02/05 17:07:45.735 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 600
+2020/02/05 17:07:45.736 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 601
+2020/02/05 17:07:45.736 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 602
+2020/02/05 17:07:45.737 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 603
+2020/02/05 17:07:45.737 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 604
+2020/02/05 17:07:45.738 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 605
+2020/02/05 17:07:45.739 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 606
+2020/02/05 17:07:45.739 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 607
+2020/02/05 17:07:45.740 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 608
+2020/02/05 17:07:45.740 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 609
+2020/02/05 17:07:45.741 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 610
+2020/02/05 17:07:45.742 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 611
+2020/02/05 17:07:45.743 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 612
+2020/02/05 17:07:45.743 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 613
+2020/02/05 17:07:45.744 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 614
+2020/02/05 17:07:45.745 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 615
+2020/02/05 17:07:45.746 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 616
+2020/02/05 17:07:45.746 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 617
+2020/02/05 17:07:45.747 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 618
+2020/02/05 17:07:45.750 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 619
+2020/02/05 17:07:45.756 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 620
+2020/02/05 17:07:45.758 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 621
+2020/02/05 17:07:45.759 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 622
+2020/02/05 17:07:45.759 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 623
+2020/02/05 17:07:45.760 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 624
+2020/02/05 17:07:45.761 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 625
+2020/02/05 17:07:45.762 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 626
+2020/02/05 17:07:45.762 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 627
+2020/02/05 17:07:45.764 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 628
+2020/02/05 17:07:45.766 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 629
+2020/02/05 17:07:45.767 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 630
+2020/02/05 17:07:45.768 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 631
+2020/02/05 17:07:45.770 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 632
+2020/02/05 17:07:45.772 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 633
+2020/02/05 17:07:45.776 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 634
+2020/02/05 17:07:45.780 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 635
+2020/02/05 17:07:45.785 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 636
+2020/02/05 17:07:45.788 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 637
+2020/02/05 17:07:45.789 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 638
+2020/02/05 17:07:45.791 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 639
+2020/02/05 17:07:45.792 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 640
+2020/02/05 17:07:45.793 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 641
+2020/02/05 17:07:45.793 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 642
+2020/02/05 17:07:45.794 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 643
+2020/02/05 17:07:45.795 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 644
+2020/02/05 17:07:45.795 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 645
+2020/02/05 17:07:45.796 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 646
+2020/02/05 17:07:45.797 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 647
+2020/02/05 17:07:45.800 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 648
+2020/02/05 17:07:45.804 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 649
+2020/02/05 17:07:45.805 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 650
+2020/02/05 17:07:45.806 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 651
+2020/02/05 17:07:45.807 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 652
+2020/02/05 17:07:45.807 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 653
+2020/02/05 17:07:45.808 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 654
+2020/02/05 17:07:45.808 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 655
+2020/02/05 17:07:45.809 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 656
+2020/02/05 17:07:45.809 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 657
+2020/02/05 17:07:45.810 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 658
+2020/02/05 17:07:45.810 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 659
+2020/02/05 17:07:45.811 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 660
+2020/02/05 17:07:45.812 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 661
+2020/02/05 17:07:45.812 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 662
+2020/02/05 17:07:45.813 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 663
+2020/02/05 17:07:45.814 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 664
+2020/02/05 17:07:45.815 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 665
+2020/02/05 17:07:45.815 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 666
+2020/02/05 17:07:45.816 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 667
+2020/02/05 17:07:45.817 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 668
+2020/02/05 17:07:45.817 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 669
+2020/02/05 17:07:46.724 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 670
+2020/02/05 17:10:57.834 [I]  init log success
+2020/02/05 17:10:57.834 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:10:57.834 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:10:57.834 [I]  init tail success
+2020/02/05 17:10:57.838 [I]  init kafka producer success
+2020/02/05 17:10:57.842 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 671
+2020/02/05 17:10:57.842 [I]  init kafka consumer success
+2020/02/05 17:10:57.842 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 17:10:57.843 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 672
+2020/02/05 17:10:57.844 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 673
+2020/02/05 17:10:57.845 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 674
+2020/02/05 17:10:57.845 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 17:10:57.845 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 675
+2020/02/05 17:10:57.846 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 676
+2020/02/05 17:10:57.846 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 677
+2020/02/05 17:10:57.847 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 678
+2020/02/05 17:10:57.848 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 679
+2020/02/05 17:10:57.849 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 680
+2020/02/05 17:10:57.849 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 681
+2020/02/05 17:10:57.850 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 682
+2020/02/05 17:10:57.850 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 683
+2020/02/05 17:10:57.851 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 684
+2020/02/05 17:10:57.851 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 685
+2020/02/05 17:10:57.852 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 686
+2020/02/05 17:10:57.852 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 687
+2020/02/05 17:10:57.853 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 688
+2020/02/05 17:10:57.853 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 689
+2020/02/05 17:10:57.854 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 690
+2020/02/05 17:10:57.854 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 691
+2020/02/05 17:10:57.855 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 692
+2020/02/05 17:10:57.855 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 693
+2020/02/05 17:10:57.856 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 694
+2020/02/05 17:10:57.856 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 695
+2020/02/05 17:10:57.857 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 696
+2020/02/05 17:10:57.857 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 697
+2020/02/05 17:10:57.858 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 698
+2020/02/05 17:10:57.858 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 699
+2020/02/05 17:10:57.859 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 700
+2020/02/05 17:10:57.859 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 701
+2020/02/05 17:10:57.860 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 702
+2020/02/05 17:10:57.860 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 703
+2020/02/05 17:10:57.861 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 704
+2020/02/05 17:10:57.861 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 705
+2020/02/05 17:10:57.862 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 706
+2020/02/05 17:10:57.862 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 707
+2020/02/05 17:10:57.863 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 708
+2020/02/05 17:10:57.863 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 709
+2020/02/05 17:10:57.864 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 710
+2020/02/05 17:10:57.864 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 711
+2020/02/05 17:10:57.865 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 712
+2020/02/05 17:10:57.865 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 713
+2020/02/05 17:10:57.866 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 714
+2020/02/05 17:10:57.866 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 715
+2020/02/05 17:10:57.867 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 716
+2020/02/05 17:10:57.867 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 717
+2020/02/05 17:10:57.867 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 718
+2020/02/05 17:10:57.868 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 719
+2020/02/05 17:10:57.868 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 720
+2020/02/05 17:10:57.869 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 721
+2020/02/05 17:10:57.869 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 722
+2020/02/05 17:10:57.870 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 723
+2020/02/05 17:10:57.870 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 724
+2020/02/05 17:10:57.870 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 725
+2020/02/05 17:10:57.871 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 726
+2020/02/05 17:10:57.871 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 727
+2020/02/05 17:10:57.872 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 728
+2020/02/05 17:10:57.872 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 729
+2020/02/05 17:10:57.872 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 730
+2020/02/05 17:10:57.873 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 731
+2020/02/05 17:10:57.873 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 732
+2020/02/05 17:10:57.874 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 733
+2020/02/05 17:10:57.875 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 734
+2020/02/05 17:10:57.876 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 735
+2020/02/05 17:10:57.877 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 736
+2020/02/05 17:10:57.878 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 737
+2020/02/05 17:10:57.880 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 738
+2020/02/05 17:10:57.881 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 739
+2020/02/05 17:10:57.882 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 740
+2020/02/05 17:10:57.882 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 741
+2020/02/05 17:10:57.883 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 742
+2020/02/05 17:10:57.884 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 743
+2020/02/05 17:10:57.884 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 744
+2020/02/05 17:10:57.885 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 745
+2020/02/05 17:10:57.885 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 746
+2020/02/05 17:10:57.886 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 747
+2020/02/05 17:10:57.888 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 748
+2020/02/05 17:10:57.888 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 749
+2020/02/05 17:10:57.889 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 750
+2020/02/05 17:10:57.889 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 751
+2020/02/05 17:10:57.890 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 752
+2020/02/05 17:10:57.890 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 753
+2020/02/05 17:10:57.891 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 754
+2020/02/05 17:10:57.892 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 755
+2020/02/05 17:10:57.894 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 756
+2020/02/05 17:10:57.895 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 757
+2020/02/05 17:10:57.895 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 758
+2020/02/05 17:10:57.896 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 759
+2020/02/05 17:10:57.896 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 760
+2020/02/05 17:10:57.896 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 761
+2020/02/05 17:10:57.897 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 762
+2020/02/05 17:10:57.898 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 763
+2020/02/05 17:10:57.898 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 764
+2020/02/05 17:10:57.898 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 765
+2020/02/05 17:10:57.899 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 766
+2020/02/05 17:10:57.899 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 767
+2020/02/05 17:10:57.900 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 768
+2020/02/05 17:10:57.900 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 769
+2020/02/05 17:10:57.901 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 770
+2020/02/05 17:10:57.901 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 771
+2020/02/05 17:10:57.902 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 772
+2020/02/05 17:10:57.902 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 773
+2020/02/05 17:10:57.902 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 774
+2020/02/05 17:10:57.903 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 775
+2020/02/05 17:10:57.903 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 776
+2020/02/05 17:10:57.904 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 777
+2020/02/05 17:10:57.904 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 778
+2020/02/05 17:10:57.904 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 779
+2020/02/05 17:10:57.905 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 780
+2020/02/05 17:10:57.905 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 781
+2020/02/05 17:10:57.906 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 782
+2020/02/05 17:10:57.906 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 783
+2020/02/05 17:10:57.907 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 784
+2020/02/05 17:10:57.907 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 785
+2020/02/05 17:10:57.908 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 786
+2020/02/05 17:10:57.910 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 787
+2020/02/05 17:10:57.911 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 788
+2020/02/05 17:10:57.912 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 789
+2020/02/05 17:10:57.913 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 790
+2020/02/05 17:10:57.915 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 791
+2020/02/05 17:10:57.915 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 792
+2020/02/05 17:10:57.916 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 793
+2020/02/05 17:10:57.916 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 794
+2020/02/05 17:10:57.917 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 795
+2020/02/05 17:10:57.917 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 796
+2020/02/05 17:10:57.917 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 797
+2020/02/05 17:10:57.918 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 798
+2020/02/05 17:10:58.864 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 799
+2020/02/05 17:10:59.868 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 800
+2020/02/05 17:11:00.869 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 801
+2020/02/05 17:11:01.877 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 802
+2020/02/05 17:11:02.885 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 803
+2020/02/05 17:11:03.892 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 804
+2020/02/05 17:11:04.900 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 805
+2020/02/05 17:11:05.905 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 806
+2020/02/05 17:11:06.918 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 807
+2020/02/05 17:11:07.927 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 808
+2020/02/05 17:11:08.928 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 809
+2020/02/05 17:11:09.942 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 810
+2020/02/05 17:17:04.485 [I]  init log success
+2020/02/05 17:17:04.485 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:17:04.485 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:17:04.485 [I]  init tail success
+2020/02/05 17:17:04.496 [I]  init kafka producer success
+2020/02/05 17:17:04.511 [I]  init kafka consumer success
+2020/02/05 17:17:04.512 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 17:17:04.512 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 811, msg : ====== 2020-02-05 16:23:14 =====
+2020/02/05 17:17:04.518 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 812, msg : ====== 2020-02-05 16:23:15 =====
+2020/02/05 17:17:04.520 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 813, msg : ====== 2020-02-05 16:23:16 =====
+2020/02/05 17:17:04.520 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 17:17:04.521 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 814, msg : ====== 2020-02-05 16:23:17 =====
+2020/02/05 17:17:04.522 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 815, msg : ====== 2020-02-05 16:23:18 =====
+2020/02/05 17:17:04.522 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 816, msg : ====== 2020-02-05 16:23:19 =====
+2020/02/05 17:17:04.523 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 817, msg : ====== 2020-02-05 16:23:20 =====
+2020/02/05 17:17:04.523 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 818, msg : ====== 2020-02-05 16:23:21 =====
+2020/02/05 17:17:04.524 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 819, msg : ====== 2020-02-05 16:23:22 =====
+2020/02/05 17:17:04.525 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 820, msg : ====== 2020-02-05 16:23:23 =====
+2020/02/05 17:17:04.525 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 821, msg : ====== 2020-02-05 16:23:24 =====
+2020/02/05 17:17:04.525 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 822, msg : ====== 2020-02-05 16:23:25 =====
+2020/02/05 17:17:04.526 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 823, msg : ====== 2020-02-05 16:23:26 =====
+2020/02/05 17:17:04.527 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 824, msg : ====== 2020-02-05 16:23:27 =====
+2020/02/05 17:17:04.527 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 825, msg : ====== 2020-02-05 16:23:28 =====
+2020/02/05 17:17:04.528 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 826, msg : ====== 2020-02-05 16:23:29 =====
+2020/02/05 17:17:04.528 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 827, msg : ====== 2020-02-05 16:23:30 =====
+2020/02/05 17:17:04.529 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 828, msg : ====== 2020-02-05 16:23:31 =====
+2020/02/05 17:17:04.529 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 829, msg : ====== 2020-02-05 16:23:32 =====
+2020/02/05 17:17:04.530 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 830, msg : ====== 2020-02-05 16:23:33 =====
+2020/02/05 17:17:04.530 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 831, msg : ====== 2020-02-05 16:23:34 =====
+2020/02/05 17:17:04.530 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 832, msg : ====== 2020-02-05 16:23:35 =====
+2020/02/05 17:17:04.531 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 833, msg : ====== 2020-02-05 16:23:36 =====
+2020/02/05 17:17:04.531 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 834, msg : ====== 2020-02-05 16:23:37 =====
+2020/02/05 17:17:04.531 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 835, msg : ====== 2020-02-05 16:23:38 =====
+2020/02/05 17:17:04.532 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 836, msg : ====== 2020-02-05 16:23:39 =====
+2020/02/05 17:17:04.532 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 837, msg : ====== 2020-02-05 16:33:02 =====
+2020/02/05 17:17:04.533 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 838, msg : ====== 2020-02-05 16:33:03 =====
+2020/02/05 17:17:04.533 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 839, msg : ====== 2020-02-05 16:33:04 =====
+2020/02/05 17:17:04.533 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 840, msg : ====== 2020-02-05 16:33:05 =====
+2020/02/05 17:17:04.534 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 841, msg : ====== 2020-02-05 16:33:06 =====
+2020/02/05 17:17:04.534 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 842, msg : ====== 2020-02-05 16:33:07 =====
+2020/02/05 17:17:04.535 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 843, msg : ====== 2020-02-05 16:33:08 =====
+2020/02/05 17:17:04.535 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 844, msg : ====== 2020-02-05 16:33:09 =====
+2020/02/05 17:17:04.535 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 845, msg : ====== 2020-02-05 16:33:10 =====
+2020/02/05 17:17:04.536 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 846, msg : ====== 2020-02-05 16:33:11 =====
+2020/02/05 17:17:04.536 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 847, msg : ====== 2020-02-05 16:33:12 =====
+2020/02/05 17:17:04.537 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 848, msg : ====== 2020-02-05 16:33:13 =====
+2020/02/05 17:17:04.537 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 849, msg : ====== 2020-02-05 16:33:14 =====
+2020/02/05 17:17:04.537 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 850, msg : ====== 2020-02-05 16:33:15 =====
+2020/02/05 17:17:04.538 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 851, msg : ====== 2020-02-05 16:33:16 =====
+2020/02/05 17:17:04.538 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 852, msg : ====== 2020-02-05 16:33:17 =====
+2020/02/05 17:17:04.538 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 853, msg : ====== 2020-02-05 16:33:18 =====
+2020/02/05 17:17:04.539 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 854, msg : ====== 2020-02-05 16:33:19 =====
+2020/02/05 17:17:04.539 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 855, msg : ====== 2020-02-05 16:33:20 =====
+2020/02/05 17:17:04.539 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 856, msg : ====== 2020-02-05 16:33:21 =====
+2020/02/05 17:17:04.540 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 857, msg : ====== 2020-02-05 16:33:22 =====
+2020/02/05 17:17:04.540 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 858, msg : ====== 2020-02-05 16:33:23 =====
+2020/02/05 17:17:04.541 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 859, msg : ====== 2020-02-05 16:33:24 =====
+2020/02/05 17:17:04.541 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 860, msg : ====== 2020-02-05 16:33:25 =====
+2020/02/05 17:17:04.541 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 861, msg : ====== 2020-02-05 16:33:26 =====
+2020/02/05 17:17:04.542 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 862, msg : ====== 2020-02-05 16:33:27 =====
+2020/02/05 17:17:04.542 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 863, msg : ====== 2020-02-05 16:33:28 =====
+2020/02/05 17:17:04.543 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 864, msg : ====== 2020-02-05 16:33:29 =====
+2020/02/05 17:17:04.543 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 865, msg : ====== 2020-02-05 16:33:30 =====
+2020/02/05 17:17:04.543 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 866, msg : ====== 2020-02-05 16:33:31 =====
+2020/02/05 17:17:04.544 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 867, msg : ====== 2020-02-05 16:33:32 =====
+2020/02/05 17:17:04.544 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 868, msg : ====== 2020-02-05 16:33:33 =====
+2020/02/05 17:17:04.544 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 869, msg : ====== 2020-02-05 16:33:34 =====
+2020/02/05 17:17:04.545 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 870, msg : ====== 2020-02-05 16:33:35 =====
+2020/02/05 17:17:04.545 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 871, msg : ====== 2020-02-05 16:33:36 =====
+2020/02/05 17:17:04.546 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 872, msg : ====== 2020-02-05 16:33:37 =====
+2020/02/05 17:17:04.546 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 873, msg : ====== 2020-02-05 16:33:38 =====
+2020/02/05 17:17:04.547 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 874, msg : ====== 2020-02-05 16:33:39 =====
+2020/02/05 17:17:04.548 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 875, msg : ====== 2020-02-05 16:33:40 =====
+2020/02/05 17:17:04.549 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 876, msg : ====== 2020-02-05 16:33:41 =====
+2020/02/05 17:17:04.552 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 877, msg : ====== 2020-02-05 16:33:42 =====
+2020/02/05 17:17:04.552 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 878, msg : ====== 2020-02-05 16:33:43 =====
+2020/02/05 17:17:04.553 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 879, msg : ====== 2020-02-05 16:33:44 =====
+2020/02/05 17:17:04.554 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 880, msg : ====== 2020-02-05 16:33:45 =====
+2020/02/05 17:17:04.556 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 881, msg : ====== 2020-02-05 16:33:46 =====
+2020/02/05 17:17:04.557 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 882, msg : ====== 2020-02-05 16:33:47 =====
+2020/02/05 17:17:04.557 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 883, msg : ====== 2020-02-05 16:33:48 =====
+2020/02/05 17:17:04.557 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 884, msg : ====== 2020-02-05 16:33:49 =====
+2020/02/05 17:17:04.558 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 885, msg : ====== 2020-02-05 16:33:50 =====
+2020/02/05 17:17:04.558 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 886, msg : ====== 2020-02-05 16:33:51 =====
+2020/02/05 17:17:04.558 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 887, msg : ====== 2020-02-05 16:33:52 =====
+2020/02/05 17:17:04.559 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 888, msg : ====== 2020-02-05 16:33:53 =====
+2020/02/05 17:17:04.559 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 889, msg : ====== 2020-02-05 16:33:54 =====
+2020/02/05 17:17:04.560 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 890, msg : ====== 2020-02-05 16:33:56 =====
+2020/02/05 17:17:04.560 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 891, msg : ====== 2020-02-05 16:33:57 =====
+2020/02/05 17:17:04.561 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 892, msg : ====== 2020-02-05 16:33:58 =====
+2020/02/05 17:17:04.561 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 893, msg : ====== 2020-02-05 16:33:59 =====
+2020/02/05 17:17:04.562 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 894, msg : ====== 2020-02-05 16:34:00 =====
+2020/02/05 17:17:04.562 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 895, msg : ====== 2020-02-05 16:34:01 =====
+2020/02/05 17:17:04.562 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 896, msg : ====== 2020-02-05 16:34:02 =====
+2020/02/05 17:17:04.563 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 897, msg : ====== 2020-02-05 16:34:03 =====
+2020/02/05 17:17:04.563 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 898, msg : ====== 2020-02-05 16:34:04 =====
+2020/02/05 17:17:04.565 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 899, msg : ====== 2020-02-05 17:02:16 =====
+2020/02/05 17:17:04.565 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 900, msg : ====== 2020-02-05 17:02:17 =====
+2020/02/05 17:17:04.566 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 901, msg : ====== 2020-02-05 17:02:18 =====
+2020/02/05 17:17:04.566 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 902, msg : ====== 2020-02-05 17:02:19 =====
+2020/02/05 17:17:04.566 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 903, msg : ====== 2020-02-05 17:02:20 =====
+2020/02/05 17:17:04.568 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 904, msg : ====== 2020-02-05 17:02:21 =====
+2020/02/05 17:17:04.568 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 905, msg : ====== 2020-02-05 17:02:22 =====
+2020/02/05 17:17:04.569 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 906, msg : ====== 2020-02-05 17:02:23 =====
+2020/02/05 17:17:04.569 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 907, msg : ====== 2020-02-05 17:02:24 =====
+2020/02/05 17:17:04.570 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 908, msg : ====== 2020-02-05 17:02:25 =====
+2020/02/05 17:17:04.570 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 909, msg : ====== 2020-02-05 17:02:26 =====
+2020/02/05 17:17:04.571 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 910, msg : ====== 2020-02-05 17:02:27 =====
+2020/02/05 17:17:04.572 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 911, msg : ====== 2020-02-05 17:02:28 =====
+2020/02/05 17:17:04.572 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 912, msg : ====== 2020-02-05 17:02:29 =====
+2020/02/05 17:17:04.573 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 913, msg : ====== 2020-02-05 17:02:30 =====
+2020/02/05 17:17:04.573 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 914, msg : ====== 2020-02-05 17:02:31 =====
+2020/02/05 17:17:04.573 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 915, msg : ====== 2020-02-05 17:02:32 =====
+2020/02/05 17:17:04.574 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 916, msg : ====== 2020-02-05 17:02:33 =====
+2020/02/05 17:17:04.574 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 917, msg : ====== 2020-02-05 17:02:34 =====
+2020/02/05 17:17:04.575 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 918, msg : ====== 2020-02-05 17:02:35 =====
+2020/02/05 17:17:04.575 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 919, msg : ====== 2020-02-05 17:02:36 =====
+2020/02/05 17:17:04.576 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 920, msg : ====== 2020-02-05 17:02:37 =====
+2020/02/05 17:17:04.576 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 921, msg : ====== 2020-02-05 17:03:58 =====
+2020/02/05 17:17:04.576 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 922, msg : ====== 2020-02-05 17:03:59 =====
+2020/02/05 17:17:04.577 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 923, msg : ====== 2020-02-05 17:04:00 =====
+2020/02/05 17:17:04.577 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 924, msg : ====== 2020-02-05 17:04:01 =====
+2020/02/05 17:17:04.578 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 925, msg : ====== 2020-02-05 17:04:02 =====
+2020/02/05 17:17:04.578 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 926, msg : ====== 2020-02-05 17:04:03 =====
+2020/02/05 17:17:04.579 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 927, msg : ====== 2020-02-05 17:04:04 =====
+2020/02/05 17:17:04.579 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 928, msg : ====== 2020-02-05 17:04:05 =====
+2020/02/05 17:17:04.580 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 929, msg : ====== 2020-02-05 17:04:06 =====
+2020/02/05 17:17:04.581 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 930, msg : ====== 2020-02-05 17:04:07 =====
+2020/02/05 17:17:04.581 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 931, msg : ====== 2020-02-05 17:04:08 =====
+2020/02/05 17:17:04.582 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 932, msg : ====== 2020-02-05 17:04:09 =====
+2020/02/05 17:17:04.582 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 933, msg : ====== 2020-02-05 17:04:10 =====
+2020/02/05 17:17:04.582 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 934, msg : ====== 2020-02-05 17:04:11 =====
+2020/02/05 17:17:04.583 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 935, msg : ====== 2020-02-05 17:04:12 =====
+2020/02/05 17:17:04.583 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 936, msg : ====== 2020-02-05 17:07:45 =====
+2020/02/05 17:17:04.584 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 937, msg : ====== 2020-02-05 17:07:46 =====
+2020/02/05 17:17:04.586 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 938, msg : ====== 2020-02-05 17:10:57 =====
+2020/02/05 17:17:04.587 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 939, msg : ====== 2020-02-05 17:10:58 =====
+2020/02/05 17:17:04.587 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 940, msg : ====== 2020-02-05 17:10:59 =====
+2020/02/05 17:17:04.587 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 941, msg : ====== 2020-02-05 17:11:00 =====
+2020/02/05 17:17:04.588 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 942, msg : ====== 2020-02-05 17:11:01 =====
+2020/02/05 17:17:04.588 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 943, msg : ====== 2020-02-05 17:11:02 =====
+2020/02/05 17:17:04.589 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 944, msg : ====== 2020-02-05 17:11:03 =====
+2020/02/05 17:17:04.589 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 945, msg : ====== 2020-02-05 17:11:04 =====
+2020/02/05 17:17:04.590 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 946, msg : ====== 2020-02-05 17:11:05 =====
+2020/02/05 17:17:04.590 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 947, msg : ====== 2020-02-05 17:11:06 =====
+2020/02/05 17:17:04.590 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 948, msg : ====== 2020-02-05 17:11:07 =====
+2020/02/05 17:17:04.591 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 949, msg : ====== 2020-02-05 17:11:08 =====
+2020/02/05 17:17:04.591 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 950, msg : ====== 2020-02-05 17:11:09 =====
+2020/02/05 17:17:04.591 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 951, msg : ====== 2020-02-05 17:17:04 =====
+2020/02/05 17:17:05.556 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 952, msg : ====== 2020-02-05 17:17:05 =====
+2020/02/05 17:17:06.566 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 953, msg : ====== 2020-02-05 17:17:06 =====
+2020/02/05 17:17:07.574 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 954, msg : ====== 2020-02-05 17:17:07 =====
+2020/02/05 17:17:08.583 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 955, msg : ====== 2020-02-05 17:17:08 =====
+2020/02/05 17:17:09.595 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 956, msg : ====== 2020-02-05 17:17:09 =====
+2020/02/05 17:17:10.602 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 957, msg : ====== 2020-02-05 17:17:10 =====
+2020/02/05 17:17:11.611 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 958, msg : ====== 2020-02-05 17:17:11 =====
+2020/02/05 17:17:12.623 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 959, msg : ====== 2020-02-05 17:17:12 =====
+2020/02/05 17:17:13.636 [I]  send msg to kafka success！topic : error_log, partition : 0, offset : 960, msg : ====== 2020-02-05 17:17:13 =====
+2020/02/05 17:17:46.157 [I]  init log success
+2020/02/05 17:17:49.242 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:17:49.242 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:17:49.242 [I]  init tail success
+2020/02/05 17:19:00.298 [I]  init log success
+2020/02/05 17:19:00.298 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:19:00.298 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:19:00.298 [I]  init tail success
+2020/02/05 17:21:04.074 [I]  init log success
+2020/02/05 17:21:31.483 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:23:11.092 [I]  init log success
+2020/02/05 17:23:11.092 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:23:11.092 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:23:11.092 [I]  init tail success
+2020/02/05 17:23:42.805 [I]  init kafka producer success
+2020/02/05 17:23:42.809 [I]  init kafka consumer success
+2020/02/05 17:23:42.809 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 17:23:42.810 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 163, msg : ====== 2020-02-05 16:23:14 =====
+2020/02/05 17:23:42.818 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 17:23:42.825 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=164), value -> %!(EXTRA string======= 2020-02-05 16:23:15 =====)
+2020/02/05 17:23:42.826 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 164, msg : ====== 2020-02-05 16:23:15 =====
+2020/02/05 17:23:42.827 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 165, msg : ====== 2020-02-05 16:23:16 =====
+2020/02/05 17:23:42.829 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 166, msg : ====== 2020-02-05 16:23:17 =====
+2020/02/05 17:23:42.830 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 167, msg : ====== 2020-02-05 16:23:18 =====
+2020/02/05 17:23:42.831 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 168, msg : ====== 2020-02-05 16:23:19 =====
+2020/02/05 17:23:42.832 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 169, msg : ====== 2020-02-05 16:23:20 =====
+2020/02/05 17:23:42.833 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 170, msg : ====== 2020-02-05 16:23:21 =====
+2020/02/05 17:23:42.836 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 171, msg : ====== 2020-02-05 16:23:22 =====
+2020/02/05 17:23:42.838 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 172, msg : ====== 2020-02-05 16:23:23 =====
+2020/02/05 17:23:42.838 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=165), value -> %!(EXTRA string======= 2020-02-05 16:23:16 =====)
+2020/02/05 17:23:42.838 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=166), value -> %!(EXTRA string======= 2020-02-05 16:23:17 =====)
+2020/02/05 17:23:42.838 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=167), value -> %!(EXTRA string======= 2020-02-05 16:23:18 =====)
+2020/02/05 17:23:42.838 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=168), value -> %!(EXTRA string======= 2020-02-05 16:23:19 =====)
+2020/02/05 17:23:42.838 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=169), value -> %!(EXTRA string======= 2020-02-05 16:23:20 =====)
+2020/02/05 17:23:42.838 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=170), value -> %!(EXTRA string======= 2020-02-05 16:23:21 =====)
+2020/02/05 17:23:42.838 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=171), value -> %!(EXTRA string======= 2020-02-05 16:23:22 =====)
+2020/02/05 17:23:42.840 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 173, msg : ====== 2020-02-05 16:23:24 =====
+2020/02/05 17:23:42.840 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=172), value -> %!(EXTRA string======= 2020-02-05 16:23:23 =====)
+2020/02/05 17:23:42.840 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=173), value -> %!(EXTRA string======= 2020-02-05 16:23:24 =====)
+2020/02/05 17:23:42.843 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 174, msg : ====== 2020-02-05 16:23:25 =====
+2020/02/05 17:23:42.844 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=174), value -> %!(EXTRA string======= 2020-02-05 16:23:25 =====)
+2020/02/05 17:23:42.858 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 175, msg : ====== 2020-02-05 16:23:26 =====
+2020/02/05 17:23:42.858 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=175), value -> %!(EXTRA string======= 2020-02-05 16:23:26 =====)
+2020/02/05 17:23:42.866 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 176, msg : ====== 2020-02-05 16:23:27 =====
+2020/02/05 17:23:42.866 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=176), value -> %!(EXTRA string======= 2020-02-05 16:23:27 =====)
+2020/02/05 17:23:42.869 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 177, msg : ====== 2020-02-05 16:23:28 =====
+2020/02/05 17:23:42.870 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=177), value -> %!(EXTRA string======= 2020-02-05 16:23:28 =====)
+2020/02/05 17:23:42.872 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 178, msg : ====== 2020-02-05 16:23:29 =====
+2020/02/05 17:23:42.872 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=178), value -> %!(EXTRA string======= 2020-02-05 16:23:29 =====)
+2020/02/05 17:23:42.874 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 179, msg : ====== 2020-02-05 16:23:30 =====
+2020/02/05 17:23:42.876 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=179), value -> %!(EXTRA string======= 2020-02-05 16:23:30 =====)
+2020/02/05 17:23:42.877 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=180), value -> %!(EXTRA string======= 2020-02-05 16:23:31 =====)
+2020/02/05 17:23:42.877 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 180, msg : ====== 2020-02-05 16:23:31 =====
+2020/02/05 17:23:42.878 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 181, msg : ====== 2020-02-05 16:23:32 =====
+2020/02/05 17:23:42.879 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=181), value -> %!(EXTRA string======= 2020-02-05 16:23:32 =====)
+2020/02/05 17:23:42.879 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 182, msg : ====== 2020-02-05 16:23:33 =====
+2020/02/05 17:23:42.879 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=182), value -> %!(EXTRA string======= 2020-02-05 16:23:33 =====)
+2020/02/05 17:23:42.880 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 183, msg : ====== 2020-02-05 16:23:34 =====
+2020/02/05 17:23:42.882 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=183), value -> %!(EXTRA string======= 2020-02-05 16:23:34 =====)
+2020/02/05 17:23:42.883 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 184, msg : ====== 2020-02-05 16:23:35 =====
+2020/02/05 17:23:42.884 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=184), value -> %!(EXTRA string======= 2020-02-05 16:23:35 =====)
+2020/02/05 17:23:42.884 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 185, msg : ====== 2020-02-05 16:23:36 =====
+2020/02/05 17:23:42.885 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=185), value -> %!(EXTRA string======= 2020-02-05 16:23:36 =====)
+2020/02/05 17:23:42.885 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 186, msg : ====== 2020-02-05 16:23:37 =====
+2020/02/05 17:23:42.886 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=186), value -> %!(EXTRA string======= 2020-02-05 16:23:37 =====)
+2020/02/05 17:23:42.886 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 187, msg : ====== 2020-02-05 16:23:38 =====
+2020/02/05 17:23:42.886 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 188, msg : ====== 2020-02-05 16:23:39 =====
+2020/02/05 17:23:42.887 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=187), value -> %!(EXTRA string======= 2020-02-05 16:23:38 =====)
+2020/02/05 17:23:42.887 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 189, msg : ====== 2020-02-05 16:33:02 =====
+2020/02/05 17:23:42.887 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=188), value -> %!(EXTRA string======= 2020-02-05 16:23:39 =====)
+2020/02/05 17:23:42.888 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 190, msg : ====== 2020-02-05 16:33:03 =====
+2020/02/05 17:23:42.888 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=189), value -> %!(EXTRA string======= 2020-02-05 16:33:02 =====)
+2020/02/05 17:23:42.889 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 191, msg : ====== 2020-02-05 16:33:04 =====
+2020/02/05 17:23:42.889 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=190), value -> %!(EXTRA string======= 2020-02-05 16:33:03 =====)
+2020/02/05 17:23:42.890 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 192, msg : ====== 2020-02-05 16:33:05 =====
+2020/02/05 17:23:42.891 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 193, msg : ====== 2020-02-05 16:33:06 =====
+2020/02/05 17:23:42.891 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=191), value -> %!(EXTRA string======= 2020-02-05 16:33:04 =====)
+2020/02/05 17:23:42.891 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=192), value -> %!(EXTRA string======= 2020-02-05 16:33:05 =====)
+2020/02/05 17:23:42.892 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=193), value -> %!(EXTRA string======= 2020-02-05 16:33:06 =====)
+2020/02/05 17:23:42.892 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 194, msg : ====== 2020-02-05 16:33:07 =====
+2020/02/05 17:23:42.893 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 195, msg : ====== 2020-02-05 16:33:08 =====
+2020/02/05 17:23:42.893 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=194), value -> %!(EXTRA string======= 2020-02-05 16:33:07 =====)
+2020/02/05 17:23:42.894 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 196, msg : ====== 2020-02-05 16:33:09 =====
+2020/02/05 17:23:42.895 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=195), value -> %!(EXTRA string======= 2020-02-05 16:33:08 =====)
+2020/02/05 17:23:42.895 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 197, msg : ====== 2020-02-05 16:33:10 =====
+2020/02/05 17:23:42.895 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=196), value -> %!(EXTRA string======= 2020-02-05 16:33:09 =====)
+2020/02/05 17:23:42.896 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 198, msg : ====== 2020-02-05 16:33:11 =====
+2020/02/05 17:23:42.896 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=197), value -> %!(EXTRA string======= 2020-02-05 16:33:10 =====)
+2020/02/05 17:23:42.896 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=198), value -> %!(EXTRA string======= 2020-02-05 16:33:11 =====)
+2020/02/05 17:23:42.897 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 199, msg : ====== 2020-02-05 16:33:12 =====
+2020/02/05 17:23:42.898 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=199), value -> %!(EXTRA string======= 2020-02-05 16:33:12 =====)
+2020/02/05 17:23:42.898 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 200, msg : ====== 2020-02-05 16:33:13 =====
+2020/02/05 17:23:42.900 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 201, msg : ====== 2020-02-05 16:33:14 =====
+2020/02/05 17:23:42.900 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=200), value -> %!(EXTRA string======= 2020-02-05 16:33:13 =====)
+2020/02/05 17:23:42.901 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 202, msg : ====== 2020-02-05 16:33:15 =====
+2020/02/05 17:23:42.901 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=201), value -> %!(EXTRA string======= 2020-02-05 16:33:14 =====)
+2020/02/05 17:23:42.901 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 203, msg : ====== 2020-02-05 16:33:16 =====
+2020/02/05 17:23:42.902 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 204, msg : ====== 2020-02-05 16:33:17 =====
+2020/02/05 17:23:42.902 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=202), value -> %!(EXTRA string======= 2020-02-05 16:33:15 =====)
+2020/02/05 17:23:42.902 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 205, msg : ====== 2020-02-05 16:33:18 =====
+2020/02/05 17:23:42.903 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=203), value -> %!(EXTRA string======= 2020-02-05 16:33:16 =====)
+2020/02/05 17:23:42.903 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=204), value -> %!(EXTRA string======= 2020-02-05 16:33:17 =====)
+2020/02/05 17:23:42.903 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 206, msg : ====== 2020-02-05 16:33:19 =====
+2020/02/05 17:23:42.904 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=205), value -> %!(EXTRA string======= 2020-02-05 16:33:18 =====)
+2020/02/05 17:23:42.904 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=206), value -> %!(EXTRA string======= 2020-02-05 16:33:19 =====)
+2020/02/05 17:23:42.904 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 207, msg : ====== 2020-02-05 16:33:20 =====
+2020/02/05 17:23:42.904 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 208, msg : ====== 2020-02-05 16:33:21 =====
+2020/02/05 17:23:42.904 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=207), value -> %!(EXTRA string======= 2020-02-05 16:33:20 =====)
+2020/02/05 17:23:42.905 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 209, msg : ====== 2020-02-05 16:33:22 =====
+2020/02/05 17:23:42.905 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 210, msg : ====== 2020-02-05 16:33:23 =====
+2020/02/05 17:23:42.905 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=208), value -> %!(EXTRA string======= 2020-02-05 16:33:21 =====)
+2020/02/05 17:23:42.905 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=209), value -> %!(EXTRA string======= 2020-02-05 16:33:22 =====)
+2020/02/05 17:23:42.906 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 211, msg : ====== 2020-02-05 16:33:24 =====
+2020/02/05 17:23:42.907 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=210), value -> %!(EXTRA string======= 2020-02-05 16:33:23 =====)
+2020/02/05 17:23:42.907 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 212, msg : ====== 2020-02-05 16:33:25 =====
+2020/02/05 17:23:42.908 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 213, msg : ====== 2020-02-05 16:33:26 =====
+2020/02/05 17:23:42.908 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=211), value -> %!(EXTRA string======= 2020-02-05 16:33:24 =====)
+2020/02/05 17:23:42.908 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=212), value -> %!(EXTRA string======= 2020-02-05 16:33:25 =====)
+2020/02/05 17:23:42.909 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 214, msg : ====== 2020-02-05 16:33:27 =====
+2020/02/05 17:23:42.909 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=213), value -> %!(EXTRA string======= 2020-02-05 16:33:26 =====)
+2020/02/05 17:23:42.909 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 215, msg : ====== 2020-02-05 16:33:28 =====
+2020/02/05 17:23:42.910 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 216, msg : ====== 2020-02-05 16:33:29 =====
+2020/02/05 17:23:42.910 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=214), value -> %!(EXTRA string======= 2020-02-05 16:33:27 =====)
+2020/02/05 17:23:42.910 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=215), value -> %!(EXTRA string======= 2020-02-05 16:33:28 =====)
+2020/02/05 17:23:42.910 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 217, msg : ====== 2020-02-05 16:33:30 =====
+2020/02/05 17:23:42.911 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=216), value -> %!(EXTRA string======= 2020-02-05 16:33:29 =====)
+2020/02/05 17:23:42.911 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 218, msg : ====== 2020-02-05 16:33:31 =====
+2020/02/05 17:23:42.912 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 219, msg : ====== 2020-02-05 16:33:32 =====
+2020/02/05 17:23:42.912 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=217), value -> %!(EXTRA string======= 2020-02-05 16:33:30 =====)
+2020/02/05 17:23:42.912 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=218), value -> %!(EXTRA string======= 2020-02-05 16:33:31 =====)
+2020/02/05 17:23:42.913 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 220, msg : ====== 2020-02-05 16:33:33 =====
+2020/02/05 17:23:42.913 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=219), value -> %!(EXTRA string======= 2020-02-05 16:33:32 =====)
+2020/02/05 17:23:42.917 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 221, msg : ====== 2020-02-05 16:33:34 =====
+2020/02/05 17:23:42.918 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=220), value -> %!(EXTRA string======= 2020-02-05 16:33:33 =====)
+2020/02/05 17:23:42.918 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=221), value -> %!(EXTRA string======= 2020-02-05 16:33:34 =====)
+2020/02/05 17:23:42.918 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 222, msg : ====== 2020-02-05 16:33:35 =====
+2020/02/05 17:23:42.919 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=222), value -> %!(EXTRA string======= 2020-02-05 16:33:35 =====)
+2020/02/05 17:23:42.919 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 223, msg : ====== 2020-02-05 16:33:36 =====
+2020/02/05 17:23:42.919 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=223), value -> %!(EXTRA string======= 2020-02-05 16:33:36 =====)
+2020/02/05 17:23:42.919 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 224, msg : ====== 2020-02-05 16:33:37 =====
+2020/02/05 17:23:42.920 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=224), value -> %!(EXTRA string======= 2020-02-05 16:33:37 =====)
+2020/02/05 17:23:42.920 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 225, msg : ====== 2020-02-05 16:33:38 =====
+2020/02/05 17:23:42.921 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 226, msg : ====== 2020-02-05 16:33:39 =====
+2020/02/05 17:23:42.921 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=225), value -> %!(EXTRA string======= 2020-02-05 16:33:38 =====)
+2020/02/05 17:23:42.921 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 227, msg : ====== 2020-02-05 16:33:40 =====
+2020/02/05 17:23:42.922 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=226), value -> %!(EXTRA string======= 2020-02-05 16:33:39 =====)
+2020/02/05 17:23:42.924 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 228, msg : ====== 2020-02-05 16:33:41 =====
+2020/02/05 17:23:42.924 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=227), value -> %!(EXTRA string======= 2020-02-05 16:33:40 =====)
+2020/02/05 17:23:42.925 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 229, msg : ====== 2020-02-05 16:33:42 =====
+2020/02/05 17:23:42.925 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=228), value -> %!(EXTRA string======= 2020-02-05 16:33:41 =====)
+2020/02/05 17:23:42.925 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=229), value -> %!(EXTRA string======= 2020-02-05 16:33:42 =====)
+2020/02/05 17:23:42.926 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 230, msg : ====== 2020-02-05 16:33:43 =====
+2020/02/05 17:23:42.926 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=230), value -> %!(EXTRA string======= 2020-02-05 16:33:43 =====)
+2020/02/05 17:23:42.926 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 231, msg : ====== 2020-02-05 16:33:44 =====
+2020/02/05 17:23:42.927 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 232, msg : ====== 2020-02-05 16:33:45 =====
+2020/02/05 17:23:42.927 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=231), value -> %!(EXTRA string======= 2020-02-05 16:33:44 =====)
+2020/02/05 17:23:42.928 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 233, msg : ====== 2020-02-05 16:33:46 =====
+2020/02/05 17:23:42.928 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=232), value -> %!(EXTRA string======= 2020-02-05 16:33:45 =====)
+2020/02/05 17:23:42.928 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=233), value -> %!(EXTRA string======= 2020-02-05 16:33:46 =====)
+2020/02/05 17:23:42.928 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 234, msg : ====== 2020-02-05 16:33:47 =====
+2020/02/05 17:23:42.929 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 235, msg : ====== 2020-02-05 16:33:48 =====
+2020/02/05 17:23:42.929 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=234), value -> %!(EXTRA string======= 2020-02-05 16:33:47 =====)
+2020/02/05 17:23:42.929 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 236, msg : ====== 2020-02-05 16:33:49 =====
+2020/02/05 17:23:42.930 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=235), value -> %!(EXTRA string======= 2020-02-05 16:33:48 =====)
+2020/02/05 17:23:42.930 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 237, msg : ====== 2020-02-05 16:33:50 =====
+2020/02/05 17:23:42.930 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=236), value -> %!(EXTRA string======= 2020-02-05 16:33:49 =====)
+2020/02/05 17:23:42.932 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 238, msg : ====== 2020-02-05 16:33:51 =====
+2020/02/05 17:23:42.932 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=237), value -> %!(EXTRA string======= 2020-02-05 16:33:50 =====)
+2020/02/05 17:23:42.933 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 239, msg : ====== 2020-02-05 16:33:52 =====
+2020/02/05 17:23:42.934 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=238), value -> %!(EXTRA string======= 2020-02-05 16:33:51 =====)
+2020/02/05 17:23:42.934 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=239), value -> %!(EXTRA string======= 2020-02-05 16:33:52 =====)
+2020/02/05 17:23:42.934 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 240, msg : ====== 2020-02-05 16:33:53 =====
+2020/02/05 17:23:42.935 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=240), value -> %!(EXTRA string======= 2020-02-05 16:33:53 =====)
+2020/02/05 17:23:42.935 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 241, msg : ====== 2020-02-05 16:33:54 =====
+2020/02/05 17:23:42.935 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=241), value -> %!(EXTRA string======= 2020-02-05 16:33:54 =====)
+2020/02/05 17:23:42.935 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 242, msg : ====== 2020-02-05 16:33:56 =====
+2020/02/05 17:23:42.936 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 243, msg : ====== 2020-02-05 16:33:57 =====
+2020/02/05 17:23:42.936 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=242), value -> %!(EXTRA string======= 2020-02-05 16:33:56 =====)
+2020/02/05 17:23:42.937 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 244, msg : ====== 2020-02-05 16:33:58 =====
+2020/02/05 17:23:42.937 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=243), value -> %!(EXTRA string======= 2020-02-05 16:33:57 =====)
+2020/02/05 17:23:42.937 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 245, msg : ====== 2020-02-05 16:33:59 =====
+2020/02/05 17:23:42.938 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=244), value -> %!(EXTRA string======= 2020-02-05 16:33:58 =====)
+2020/02/05 17:23:42.939 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 246, msg : ====== 2020-02-05 16:34:00 =====
+2020/02/05 17:23:42.939 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=245), value -> %!(EXTRA string======= 2020-02-05 16:33:59 =====)
+2020/02/05 17:23:42.939 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=246), value -> %!(EXTRA string======= 2020-02-05 16:34:00 =====)
+2020/02/05 17:23:42.940 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 247, msg : ====== 2020-02-05 16:34:01 =====
+2020/02/05 17:23:42.940 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=247), value -> %!(EXTRA string======= 2020-02-05 16:34:01 =====)
+2020/02/05 17:23:42.941 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 248, msg : ====== 2020-02-05 16:34:02 =====
+2020/02/05 17:23:42.941 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=248), value -> %!(EXTRA string======= 2020-02-05 16:34:02 =====)
+2020/02/05 17:23:42.941 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 249, msg : ====== 2020-02-05 16:34:03 =====
+2020/02/05 17:23:42.942 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=249), value -> %!(EXTRA string======= 2020-02-05 16:34:03 =====)
+2020/02/05 17:23:42.942 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 250, msg : ====== 2020-02-05 16:34:04 =====
+2020/02/05 17:23:42.942 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 251, msg : ====== 2020-02-05 17:02:16 =====
+2020/02/05 17:23:42.942 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=250), value -> %!(EXTRA string======= 2020-02-05 16:34:04 =====)
+2020/02/05 17:23:42.943 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 252, msg : ====== 2020-02-05 17:02:17 =====
+2020/02/05 17:23:42.943 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=251), value -> %!(EXTRA string======= 2020-02-05 17:02:16 =====)
+2020/02/05 17:23:42.943 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 253, msg : ====== 2020-02-05 17:02:18 =====
+2020/02/05 17:23:42.944 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=252), value -> %!(EXTRA string======= 2020-02-05 17:02:17 =====)
+2020/02/05 17:23:42.944 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=253), value -> %!(EXTRA string======= 2020-02-05 17:02:18 =====)
+2020/02/05 17:23:42.944 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 254, msg : ====== 2020-02-05 17:02:19 =====
+2020/02/05 17:23:42.945 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 255, msg : ====== 2020-02-05 17:02:20 =====
+2020/02/05 17:23:42.945 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=254), value -> %!(EXTRA string======= 2020-02-05 17:02:19 =====)
+2020/02/05 17:23:42.946 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 256, msg : ====== 2020-02-05 17:02:21 =====
+2020/02/05 17:23:42.946 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=255), value -> %!(EXTRA string======= 2020-02-05 17:02:20 =====)
+2020/02/05 17:23:42.948 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 257, msg : ====== 2020-02-05 17:02:22 =====
+2020/02/05 17:23:42.948 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=256), value -> %!(EXTRA string======= 2020-02-05 17:02:21 =====)
+2020/02/05 17:23:42.948 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 258, msg : ====== 2020-02-05 17:02:23 =====
+2020/02/05 17:23:42.949 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=257), value -> %!(EXTRA string======= 2020-02-05 17:02:22 =====)
+2020/02/05 17:23:42.949 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 259, msg : ====== 2020-02-05 17:02:24 =====
+2020/02/05 17:23:42.949 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 260, msg : ====== 2020-02-05 17:02:25 =====
+2020/02/05 17:23:42.949 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=258), value -> %!(EXTRA string======= 2020-02-05 17:02:23 =====)
+2020/02/05 17:23:42.949 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=259), value -> %!(EXTRA string======= 2020-02-05 17:02:24 =====)
+2020/02/05 17:23:42.950 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 261, msg : ====== 2020-02-05 17:02:26 =====
+2020/02/05 17:23:42.950 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=260), value -> %!(EXTRA string======= 2020-02-05 17:02:25 =====)
+2020/02/05 17:23:42.950 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=261), value -> %!(EXTRA string======= 2020-02-05 17:02:26 =====)
+2020/02/05 17:23:42.950 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 262, msg : ====== 2020-02-05 17:02:27 =====
+2020/02/05 17:23:42.951 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 263, msg : ====== 2020-02-05 17:02:28 =====
+2020/02/05 17:23:42.951 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=262), value -> %!(EXTRA string======= 2020-02-05 17:02:27 =====)
+2020/02/05 17:23:42.951 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 264, msg : ====== 2020-02-05 17:02:29 =====
+2020/02/05 17:23:42.952 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 265, msg : ====== 2020-02-05 17:02:30 =====
+2020/02/05 17:23:42.952 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=263), value -> %!(EXTRA string======= 2020-02-05 17:02:28 =====)
+2020/02/05 17:23:42.952 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=264), value -> %!(EXTRA string======= 2020-02-05 17:02:29 =====)
+2020/02/05 17:23:42.952 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 266, msg : ====== 2020-02-05 17:02:31 =====
+2020/02/05 17:23:42.953 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=265), value -> %!(EXTRA string======= 2020-02-05 17:02:30 =====)
+2020/02/05 17:23:42.953 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 267, msg : ====== 2020-02-05 17:02:32 =====
+2020/02/05 17:23:42.953 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=266), value -> %!(EXTRA string======= 2020-02-05 17:02:31 =====)
+2020/02/05 17:23:42.953 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=267), value -> %!(EXTRA string======= 2020-02-05 17:02:32 =====)
+2020/02/05 17:23:42.953 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 268, msg : ====== 2020-02-05 17:02:33 =====
+2020/02/05 17:23:42.954 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 269, msg : ====== 2020-02-05 17:02:34 =====
+2020/02/05 17:23:42.954 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=268), value -> %!(EXTRA string======= 2020-02-05 17:02:33 =====)
+2020/02/05 17:23:42.955 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 270, msg : ====== 2020-02-05 17:02:35 =====
+2020/02/05 17:23:42.955 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=269), value -> %!(EXTRA string======= 2020-02-05 17:02:34 =====)
+2020/02/05 17:23:42.955 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=270), value -> %!(EXTRA string======= 2020-02-05 17:02:35 =====)
+2020/02/05 17:23:42.955 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 271, msg : ====== 2020-02-05 17:02:36 =====
+2020/02/05 17:23:42.956 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 272, msg : ====== 2020-02-05 17:02:37 =====
+2020/02/05 17:23:42.956 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=271), value -> %!(EXTRA string======= 2020-02-05 17:02:36 =====)
+2020/02/05 17:23:42.956 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 273, msg : ====== 2020-02-05 17:03:58 =====
+2020/02/05 17:23:42.956 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=272), value -> %!(EXTRA string======= 2020-02-05 17:02:37 =====)
+2020/02/05 17:23:42.957 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 274, msg : ====== 2020-02-05 17:03:59 =====
+2020/02/05 17:23:42.957 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 275, msg : ====== 2020-02-05 17:04:00 =====
+2020/02/05 17:23:42.957 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=273), value -> %!(EXTRA string======= 2020-02-05 17:03:58 =====)
+2020/02/05 17:23:42.957 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=274), value -> %!(EXTRA string======= 2020-02-05 17:03:59 =====)
+2020/02/05 17:23:42.958 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 276, msg : ====== 2020-02-05 17:04:01 =====
+2020/02/05 17:23:42.958 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=275), value -> %!(EXTRA string======= 2020-02-05 17:04:00 =====)
+2020/02/05 17:23:42.958 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 277, msg : ====== 2020-02-05 17:04:02 =====
+2020/02/05 17:23:42.958 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 278, msg : ====== 2020-02-05 17:04:03 =====
+2020/02/05 17:23:42.959 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=276), value -> %!(EXTRA string======= 2020-02-05 17:04:01 =====)
+2020/02/05 17:23:42.959 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=277), value -> %!(EXTRA string======= 2020-02-05 17:04:02 =====)
+2020/02/05 17:23:42.959 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 279, msg : ====== 2020-02-05 17:04:04 =====
+2020/02/05 17:23:42.959 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=278), value -> %!(EXTRA string======= 2020-02-05 17:04:03 =====)
+2020/02/05 17:23:42.959 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=279), value -> %!(EXTRA string======= 2020-02-05 17:04:04 =====)
+2020/02/05 17:23:42.959 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 280, msg : ====== 2020-02-05 17:04:05 =====
+2020/02/05 17:23:42.960 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 281, msg : ====== 2020-02-05 17:04:06 =====
+2020/02/05 17:23:42.960 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=280), value -> %!(EXTRA string======= 2020-02-05 17:04:05 =====)
+2020/02/05 17:23:42.960 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 282, msg : ====== 2020-02-05 17:04:07 =====
+2020/02/05 17:23:42.961 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=281), value -> %!(EXTRA string======= 2020-02-05 17:04:06 =====)
+2020/02/05 17:23:42.961 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=282), value -> %!(EXTRA string======= 2020-02-05 17:04:07 =====)
+2020/02/05 17:23:42.961 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 283, msg : ====== 2020-02-05 17:04:08 =====
+2020/02/05 17:23:42.961 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 284, msg : ====== 2020-02-05 17:04:09 =====
+2020/02/05 17:23:42.962 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 285, msg : ====== 2020-02-05 17:04:10 =====
+2020/02/05 17:23:42.962 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 286, msg : ====== 2020-02-05 17:04:11 =====
+2020/02/05 17:23:42.963 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 287, msg : ====== 2020-02-05 17:04:12 =====
+2020/02/05 17:23:42.963 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 288, msg : ====== 2020-02-05 17:07:45 =====
+2020/02/05 17:23:42.964 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 289, msg : ====== 2020-02-05 17:07:46 =====
+2020/02/05 17:23:42.964 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 290, msg : ====== 2020-02-05 17:10:57 =====
+2020/02/05 17:23:42.964 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=283), value -> %!(EXTRA string======= 2020-02-05 17:04:08 =====)
+2020/02/05 17:23:42.965 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 291, msg : ====== 2020-02-05 17:10:58 =====
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=284), value -> %!(EXTRA string======= 2020-02-05 17:04:09 =====)
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=285), value -> %!(EXTRA string======= 2020-02-05 17:04:10 =====)
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=286), value -> %!(EXTRA string======= 2020-02-05 17:04:11 =====)
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=287), value -> %!(EXTRA string======= 2020-02-05 17:04:12 =====)
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=288), value -> %!(EXTRA string======= 2020-02-05 17:07:45 =====)
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=289), value -> %!(EXTRA string======= 2020-02-05 17:07:46 =====)
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=290), value -> %!(EXTRA string======= 2020-02-05 17:10:57 =====)
+2020/02/05 17:23:42.965 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 292, msg : ====== 2020-02-05 17:10:59 =====
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=291), value -> %!(EXTRA string======= 2020-02-05 17:10:58 =====)
+2020/02/05 17:23:42.965 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=292), value -> %!(EXTRA string======= 2020-02-05 17:10:59 =====)
+2020/02/05 17:23:42.966 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 293, msg : ====== 2020-02-05 17:11:00 =====
+2020/02/05 17:23:42.966 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=293), value -> %!(EXTRA string======= 2020-02-05 17:11:00 =====)
+2020/02/05 17:23:42.966 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 294, msg : ====== 2020-02-05 17:11:01 =====
+2020/02/05 17:23:42.966 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 295, msg : ====== 2020-02-05 17:11:02 =====
+2020/02/05 17:23:42.966 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=294), value -> %!(EXTRA string======= 2020-02-05 17:11:01 =====)
+2020/02/05 17:23:42.967 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 296, msg : ====== 2020-02-05 17:11:03 =====
+2020/02/05 17:23:42.967 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=295), value -> %!(EXTRA string======= 2020-02-05 17:11:02 =====)
+2020/02/05 17:23:42.967 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 297, msg : ====== 2020-02-05 17:11:04 =====
+2020/02/05 17:23:42.967 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=296), value -> %!(EXTRA string======= 2020-02-05 17:11:03 =====)
+2020/02/05 17:23:42.968 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 298, msg : ====== 2020-02-05 17:11:05 =====
+2020/02/05 17:23:42.968 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=297), value -> %!(EXTRA string======= 2020-02-05 17:11:04 =====)
+2020/02/05 17:23:42.968 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 299, msg : ====== 2020-02-05 17:11:06 =====
+2020/02/05 17:23:42.968 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=298), value -> %!(EXTRA string======= 2020-02-05 17:11:05 =====)
+2020/02/05 17:23:42.968 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=299), value -> %!(EXTRA string======= 2020-02-05 17:11:06 =====)
+2020/02/05 17:23:42.969 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 300, msg : ====== 2020-02-05 17:11:07 =====
+2020/02/05 17:23:42.969 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=300), value -> %!(EXTRA string======= 2020-02-05 17:11:07 =====)
+2020/02/05 17:23:42.969 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 301, msg : ====== 2020-02-05 17:11:08 =====
+2020/02/05 17:23:42.969 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=301), value -> %!(EXTRA string======= 2020-02-05 17:11:08 =====)
+2020/02/05 17:23:42.969 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 302, msg : ====== 2020-02-05 17:11:09 =====
+2020/02/05 17:23:42.970 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=302), value -> %!(EXTRA string======= 2020-02-05 17:11:09 =====)
+2020/02/05 17:23:42.970 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 303, msg : ====== 2020-02-05 17:17:04 =====
+2020/02/05 17:23:42.971 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 304, msg : ====== 2020-02-05 17:17:05 =====
+2020/02/05 17:23:42.971 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=303), value -> %!(EXTRA string======= 2020-02-05 17:17:04 =====)
+2020/02/05 17:23:42.971 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 305, msg : ====== 2020-02-05 17:17:06 =====
+2020/02/05 17:23:42.971 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=304), value -> %!(EXTRA string======= 2020-02-05 17:17:05 =====)
+2020/02/05 17:23:42.972 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 306, msg : ====== 2020-02-05 17:17:07 =====
+2020/02/05 17:23:42.972 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=305), value -> %!(EXTRA string======= 2020-02-05 17:17:06 =====)
+2020/02/05 17:23:42.972 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 307, msg : ====== 2020-02-05 17:17:08 =====
+2020/02/05 17:23:42.972 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=306), value -> %!(EXTRA string======= 2020-02-05 17:17:07 =====)
+2020/02/05 17:23:42.973 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 308, msg : ====== 2020-02-05 17:17:09 =====
+2020/02/05 17:23:42.973 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=307), value -> %!(EXTRA string======= 2020-02-05 17:17:08 =====)
+2020/02/05 17:23:42.973 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=308), value -> %!(EXTRA string======= 2020-02-05 17:17:09 =====)
+2020/02/05 17:23:42.973 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 309, msg : ====== 2020-02-05 17:17:10 =====
+2020/02/05 17:23:42.973 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 310, msg : ====== 2020-02-05 17:17:11 =====
+2020/02/05 17:23:42.973 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=309), value -> %!(EXTRA string======= 2020-02-05 17:17:10 =====)
+2020/02/05 17:23:42.974 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=310), value -> %!(EXTRA string======= 2020-02-05 17:17:11 =====)
+2020/02/05 17:23:42.974 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 311, msg : ====== 2020-02-05 17:17:12 =====
+2020/02/05 17:23:42.974 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 312, msg : ====== 2020-02-05 17:17:13 =====
+2020/02/05 17:23:42.974 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=311), value -> %!(EXTRA string======= 2020-02-05 17:17:12 =====)
+2020/02/05 17:23:42.975 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 313, msg : ====== 2020-02-05 17:23:42 =====
+2020/02/05 17:23:42.975 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=312), value -> %!(EXTRA string======= 2020-02-05 17:17:13 =====)
+2020/02/05 17:23:42.975 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=313), value -> %!(EXTRA string======= 2020-02-05 17:23:42 =====)
+2020/02/05 17:23:43.919 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=314), value -> %!(EXTRA string======= 2020-02-05 17:23:43 =====)
+2020/02/05 17:23:43.919 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 314, msg : ====== 2020-02-05 17:23:43 =====
+2020/02/05 17:23:44.925 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=315), value -> %!(EXTRA string======= 2020-02-05 17:23:44 =====)
+2020/02/05 17:23:44.926 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 315, msg : ====== 2020-02-05 17:23:44 =====
+2020/02/05 17:23:45.935 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=316), value -> %!(EXTRA string======= 2020-02-05 17:23:45 =====)
+2020/02/05 17:23:45.935 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 316, msg : ====== 2020-02-05 17:23:45 =====
+2020/02/05 17:23:46.943 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=317), value -> %!(EXTRA string======= 2020-02-05 17:23:46 =====)
+2020/02/05 17:23:46.944 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 317, msg : ====== 2020-02-05 17:23:46 =====
+2020/02/05 17:23:47.954 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 318, msg : ====== 2020-02-05 17:23:47 =====
+2020/02/05 17:23:47.954 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=318), value -> %!(EXTRA string======= 2020-02-05 17:23:47 =====)
+2020/02/05 17:23:48.955 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=319), value -> %!(EXTRA string======= 2020-02-05 17:23:48 =====)
+2020/02/05 17:23:48.956 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 319, msg : ====== 2020-02-05 17:23:48 =====
+2020/02/05 17:23:49.969 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 320, msg : ====== 2020-02-05 17:23:49 =====
+2020/02/05 17:23:49.970 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=320), value -> %!(EXTRA string======= 2020-02-05 17:23:49 =====)
+2020/02/05 17:23:50.976 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=321), value -> %!(EXTRA string======= 2020-02-05 17:23:50 =====)
+2020/02/05 17:23:50.976 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 321, msg : ====== 2020-02-05 17:23:50 =====
+2020/02/05 17:23:51.985 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 322, msg : ====== 2020-02-05 17:23:51 =====
+2020/02/05 17:23:51.985 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=322), value -> %!(EXTRA string======= 2020-02-05 17:23:51 =====)
+2020/02/05 17:23:52.996 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 323, msg : ====== 2020-02-05 17:23:52 =====
+2020/02/05 17:23:52.996 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=323), value -> %!(EXTRA string======= 2020-02-05 17:23:52 =====)
+2020/02/05 17:23:54.002 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=324), value -> %!(EXTRA string======= 2020-02-05 17:23:53 =====)
+2020/02/05 17:23:54.002 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 324, msg : ====== 2020-02-05 17:23:53 =====
+2020/02/05 17:23:55.008 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=325), value -> %!(EXTRA string======= 2020-02-05 17:23:54 =====)
+2020/02/05 17:23:55.008 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 325, msg : ====== 2020-02-05 17:23:54 =====
+2020/02/05 17:23:56.017 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=326), value -> %!(EXTRA string======= 2020-02-05 17:23:55 =====)
+2020/02/05 17:23:56.017 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 326, msg : ====== 2020-02-05 17:23:55 =====
+2020/02/05 17:23:57.028 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 327, msg : ====== 2020-02-05 17:23:56 =====
+2020/02/05 17:23:57.030 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=327), value -> %!(EXTRA string======= 2020-02-05 17:23:56 =====)
+2020/02/05 17:23:58.044 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=328), value -> %!(EXTRA string======= 2020-02-05 17:23:57 =====)
+2020/02/05 17:23:58.044 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 328, msg : ====== 2020-02-05 17:23:57 =====
+2020/02/05 17:23:59.051 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=329), value -> %!(EXTRA string======= 2020-02-05 17:23:58 =====)
+2020/02/05 17:23:59.051 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 329, msg : ====== 2020-02-05 17:23:58 =====
+2020/02/05 17:26:40.202 [I]  init log success
+2020/02/05 17:26:40.202 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 17:26:40.202 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 17:26:40.202 [I]  init tail success
+2020/02/05 17:26:40.205 [I]  init kafka producer success
+2020/02/05 17:26:40.207 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 330, msg : ====== 2020-02-05 16:23:14 =====
+2020/02/05 17:26:40.207 [I]  init kafka consumer success
+2020/02/05 17:26:40.207 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 17:26:40.207 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 331, msg : ====== 2020-02-05 16:23:15 =====
+2020/02/05 17:26:40.208 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 332, msg : ====== 2020-02-05 16:23:16 =====
+2020/02/05 17:26:40.208 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 333, msg : ====== 2020-02-05 16:23:17 =====
+2020/02/05 17:26:40.209 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 17:26:40.209 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 334, msg : ====== 2020-02-05 16:23:18 =====
+2020/02/05 17:26:40.210 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 335, msg : ====== 2020-02-05 16:23:19 =====
+2020/02/05 17:26:56.256 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 336, msg : ====== 2020-02-05 16:23:20 =====
+2020/02/05 17:26:56.256 [I]  consume message topic[nginx_log] partition[0] success, offset -> 0, key -> %!s(int64=333), value -> %!(EXTRA string======= 2020-02-05 16:23:17 =====)
+2020/02/05 18:13:06.572 [I]  init log success
+2020/02/05 18:13:07.486 [I]  init es success
+2020/02/05 18:13:07.486 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 18:13:07.486 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 18:13:07.486 [I]  init tail success
+2020/02/05 18:13:07.496 [I]  init kafka producer success
+2020/02/05 18:13:07.500 [I]  init kafka consumer success
+2020/02/05 18:13:07.500 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 18:13:07.503 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 338, msg : ====== 2020-02-05 16:23:14 =====
+2020/02/05 18:13:07.503 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 339, msg : ====== 2020-02-05 16:23:15 =====
+2020/02/05 18:13:07.504 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 18:13:07.504 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 340, msg : ====== 2020-02-05 16:23:16 =====
+2020/02/05 18:13:07.505 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 341, msg : ====== 2020-02-05 16:23:17 =====
+2020/02/05 18:13:07.507 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 342, msg : ====== 2020-02-05 16:23:18 =====
+2020/02/05 18:13:07.509 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 343, msg : ====== 2020-02-05 16:23:19 =====
+2020/02/05 18:13:07.512 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 344, msg : ====== 2020-02-05 16:23:20 =====
+2020/02/05 18:13:07.514 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 345, msg : ====== 2020-02-05 16:23:21 =====
+2020/02/05 18:13:07.514 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 346, msg : ====== 2020-02-05 16:23:22 =====
+2020/02/05 18:13:07.515 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 347, msg : ====== 2020-02-05 16:23:23 =====
+2020/02/05 18:13:07.517 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 348, msg : ====== 2020-02-05 16:23:24 =====
+2020/02/05 18:13:07.522 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 349, msg : ====== 2020-02-05 16:23:25 =====
+2020/02/05 18:13:07.529 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 350, msg : ====== 2020-02-05 16:23:26 =====
+2020/02/05 18:13:07.534 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 351, msg : ====== 2020-02-05 16:23:27 =====
+2020/02/05 18:13:07.536 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 352, msg : ====== 2020-02-05 16:23:28 =====
+2020/02/05 18:13:07.537 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 353, msg : ====== 2020-02-05 16:23:29 =====
+2020/02/05 18:13:07.538 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 354, msg : ====== 2020-02-05 16:23:30 =====
+2020/02/05 18:13:07.542 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 355, msg : ====== 2020-02-05 16:23:31 =====
+2020/02/05 18:13:07.542 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 356, msg : ====== 2020-02-05 16:23:32 =====
+2020/02/05 18:13:07.544 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 357, msg : ====== 2020-02-05 16:23:33 =====
+2020/02/05 18:13:07.545 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 358, msg : ====== 2020-02-05 16:23:34 =====
+2020/02/05 18:13:07.546 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 359, msg : ====== 2020-02-05 16:23:35 =====
+2020/02/05 18:13:07.546 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 360, msg : ====== 2020-02-05 16:23:36 =====
+2020/02/05 18:13:07.547 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 361, msg : ====== 2020-02-05 16:23:37 =====
+2020/02/05 18:13:07.547 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 362, msg : ====== 2020-02-05 16:23:38 =====
+2020/02/05 18:13:07.549 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 363, msg : ====== 2020-02-05 16:23:39 =====
+2020/02/05 18:13:07.554 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 364, msg : ====== 2020-02-05 16:33:02 =====
+2020/02/05 18:13:07.559 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 365, msg : ====== 2020-02-05 16:33:03 =====
+2020/02/05 18:13:07.563 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 366, msg : ====== 2020-02-05 16:33:04 =====
+2020/02/05 18:13:07.567 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 367, msg : ====== 2020-02-05 16:33:05 =====
+2020/02/05 18:13:07.568 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 368, msg : ====== 2020-02-05 16:33:06 =====
+2020/02/05 18:13:07.568 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 369, msg : ====== 2020-02-05 16:33:07 =====
+2020/02/05 18:13:07.569 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 370, msg : ====== 2020-02-05 16:33:08 =====
+2020/02/05 18:13:07.569 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 371, msg : ====== 2020-02-05 16:33:09 =====
+2020/02/05 18:13:07.570 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 372, msg : ====== 2020-02-05 16:33:10 =====
+2020/02/05 18:13:07.572 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 373, msg : ====== 2020-02-05 16:33:11 =====
+2020/02/05 18:13:07.574 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 374, msg : ====== 2020-02-05 16:33:12 =====
+2020/02/05 18:13:07.575 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 375, msg : ====== 2020-02-05 16:33:13 =====
+2020/02/05 18:13:07.577 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 376, msg : ====== 2020-02-05 16:33:14 =====
+2020/02/05 18:13:07.580 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 377, msg : ====== 2020-02-05 16:33:15 =====
+2020/02/05 18:13:07.581 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 378, msg : ====== 2020-02-05 16:33:16 =====
+2020/02/05 18:13:07.581 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 379, msg : ====== 2020-02-05 16:33:17 =====
+2020/02/05 18:13:07.582 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 380, msg : ====== 2020-02-05 16:33:18 =====
+2020/02/05 18:13:07.584 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 381, msg : ====== 2020-02-05 16:33:19 =====
+2020/02/05 18:13:07.586 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 382, msg : ====== 2020-02-05 16:33:20 =====
+2020/02/05 18:13:07.589 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 383, msg : ====== 2020-02-05 16:33:21 =====
+2020/02/05 18:13:07.591 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 384, msg : ====== 2020-02-05 16:33:22 =====
+2020/02/05 18:13:07.592 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 385, msg : ====== 2020-02-05 16:33:23 =====
+2020/02/05 18:13:07.592 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 386, msg : ====== 2020-02-05 16:33:24 =====
+2020/02/05 18:13:07.593 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 387, msg : ====== 2020-02-05 16:33:25 =====
+2020/02/05 18:13:07.593 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 388, msg : ====== 2020-02-05 16:33:26 =====
+2020/02/05 18:13:07.594 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 389, msg : ====== 2020-02-05 16:33:27 =====
+2020/02/05 18:13:07.595 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 390, msg : ====== 2020-02-05 16:33:28 =====
+2020/02/05 18:13:07.595 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 391, msg : ====== 2020-02-05 16:33:29 =====
+2020/02/05 18:13:07.596 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 392, msg : ====== 2020-02-05 16:33:30 =====
+2020/02/05 18:13:07.597 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 393, msg : ====== 2020-02-05 16:33:31 =====
+2020/02/05 18:13:07.598 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 394, msg : ====== 2020-02-05 16:33:32 =====
+2020/02/05 18:13:07.598 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 395, msg : ====== 2020-02-05 16:33:33 =====
+2020/02/05 18:13:07.599 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 396, msg : ====== 2020-02-05 16:33:34 =====
+2020/02/05 18:13:07.599 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 397, msg : ====== 2020-02-05 16:33:35 =====
+2020/02/05 18:13:07.600 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 398, msg : ====== 2020-02-05 16:33:36 =====
+2020/02/05 18:13:07.600 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 399, msg : ====== 2020-02-05 16:33:37 =====
+2020/02/05 18:13:07.601 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 400, msg : ====== 2020-02-05 16:33:38 =====
+2020/02/05 18:13:07.601 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 401, msg : ====== 2020-02-05 16:33:39 =====
+2020/02/05 18:13:07.602 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 402, msg : ====== 2020-02-05 16:33:40 =====
+2020/02/05 18:13:07.603 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 403, msg : ====== 2020-02-05 16:33:41 =====
+2020/02/05 18:13:07.603 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 404, msg : ====== 2020-02-05 16:33:42 =====
+2020/02/05 18:13:07.604 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 405, msg : ====== 2020-02-05 16:33:43 =====
+2020/02/05 18:13:07.604 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 406, msg : ====== 2020-02-05 16:33:44 =====
+2020/02/05 18:13:07.605 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 407, msg : ====== 2020-02-05 16:33:45 =====
+2020/02/05 18:13:07.606 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 408, msg : ====== 2020-02-05 16:33:46 =====
+2020/02/05 18:13:07.606 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 409, msg : ====== 2020-02-05 16:33:47 =====
+2020/02/05 18:13:07.606 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 410, msg : ====== 2020-02-05 16:33:48 =====
+2020/02/05 18:13:07.607 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 411, msg : ====== 2020-02-05 16:33:49 =====
+2020/02/05 18:13:07.608 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 412, msg : ====== 2020-02-05 16:33:50 =====
+2020/02/05 18:13:07.608 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 413, msg : ====== 2020-02-05 16:33:51 =====
+2020/02/05 18:13:07.608 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 414, msg : ====== 2020-02-05 16:33:52 =====
+2020/02/05 18:13:07.609 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 415, msg : ====== 2020-02-05 16:33:53 =====
+2020/02/05 18:13:07.610 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 416, msg : ====== 2020-02-05 16:33:54 =====
+2020/02/05 18:13:07.612 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 417, msg : ====== 2020-02-05 16:33:56 =====
+2020/02/05 18:13:07.612 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 418, msg : ====== 2020-02-05 16:33:57 =====
+2020/02/05 18:13:07.613 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 419, msg : ====== 2020-02-05 16:33:58 =====
+2020/02/05 18:13:07.614 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 420, msg : ====== 2020-02-05 16:33:59 =====
+2020/02/05 18:13:07.615 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 421, msg : ====== 2020-02-05 16:34:00 =====
+2020/02/05 18:13:07.616 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 422, msg : ====== 2020-02-05 16:34:01 =====
+2020/02/05 18:13:07.616 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 423, msg : ====== 2020-02-05 16:34:02 =====
+2020/02/05 18:13:07.617 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 424, msg : ====== 2020-02-05 16:34:03 =====
+2020/02/05 18:13:07.617 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 425, msg : ====== 2020-02-05 16:34:04 =====
+2020/02/05 18:13:07.618 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 426, msg : ====== 2020-02-05 17:02:16 =====
+2020/02/05 18:13:07.619 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 427, msg : ====== 2020-02-05 17:02:17 =====
+2020/02/05 18:13:07.619 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 428, msg : ====== 2020-02-05 17:02:18 =====
+2020/02/05 18:13:07.620 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 429, msg : ====== 2020-02-05 17:02:19 =====
+2020/02/05 18:13:07.620 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 430, msg : ====== 2020-02-05 17:02:20 =====
+2020/02/05 18:13:07.621 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 431, msg : ====== 2020-02-05 17:02:21 =====
+2020/02/05 18:13:07.623 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 432, msg : ====== 2020-02-05 17:02:22 =====
+2020/02/05 18:13:07.624 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 433, msg : ====== 2020-02-05 17:02:23 =====
+2020/02/05 18:13:07.624 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 434, msg : ====== 2020-02-05 17:02:24 =====
+2020/02/05 18:13:07.625 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 435, msg : ====== 2020-02-05 17:02:25 =====
+2020/02/05 18:13:07.626 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 436, msg : ====== 2020-02-05 17:02:26 =====
+2020/02/05 18:13:07.628 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 437, msg : ====== 2020-02-05 17:02:27 =====
+2020/02/05 18:13:07.629 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 438, msg : ====== 2020-02-05 17:02:28 =====
+2020/02/05 18:13:07.630 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 439, msg : ====== 2020-02-05 17:02:29 =====
+2020/02/05 18:13:07.630 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 440, msg : ====== 2020-02-05 17:02:30 =====
+2020/02/05 18:13:07.631 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 441, msg : ====== 2020-02-05 17:02:31 =====
+2020/02/05 18:13:07.632 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 442, msg : ====== 2020-02-05 17:02:32 =====
+2020/02/05 18:13:07.632 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 443, msg : ====== 2020-02-05 17:02:33 =====
+2020/02/05 18:13:07.633 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 444, msg : ====== 2020-02-05 17:02:34 =====
+2020/02/05 18:13:07.633 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 445, msg : ====== 2020-02-05 17:02:35 =====
+2020/02/05 18:13:07.634 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 446, msg : ====== 2020-02-05 17:02:36 =====
+2020/02/05 18:13:07.634 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 447, msg : ====== 2020-02-05 17:02:37 =====
+2020/02/05 18:13:07.635 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 448, msg : ====== 2020-02-05 17:03:58 =====
+2020/02/05 18:13:07.636 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 449, msg : ====== 2020-02-05 17:03:59 =====
+2020/02/05 18:13:07.636 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 450, msg : ====== 2020-02-05 17:04:00 =====
+2020/02/05 18:13:07.637 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 451, msg : ====== 2020-02-05 17:04:01 =====
+2020/02/05 18:13:07.638 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 452, msg : ====== 2020-02-05 17:04:02 =====
+2020/02/05 18:13:07.639 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 453, msg : ====== 2020-02-05 17:04:03 =====
+2020/02/05 18:13:07.639 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 454, msg : ====== 2020-02-05 17:04:04 =====
+2020/02/05 18:13:07.640 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 455, msg : ====== 2020-02-05 17:04:05 =====
+2020/02/05 18:13:07.640 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 456, msg : ====== 2020-02-05 17:04:06 =====
+2020/02/05 18:13:07.640 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 457, msg : ====== 2020-02-05 17:04:07 =====
+2020/02/05 18:13:07.641 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 458, msg : ====== 2020-02-05 17:04:08 =====
+2020/02/05 18:13:07.641 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 459, msg : ====== 2020-02-05 17:04:09 =====
+2020/02/05 18:13:07.642 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 460, msg : ====== 2020-02-05 17:04:10 =====
+2020/02/05 18:13:07.642 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 461, msg : ====== 2020-02-05 17:04:11 =====
+2020/02/05 18:13:07.643 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 462, msg : ====== 2020-02-05 17:04:12 =====
+2020/02/05 18:13:07.643 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 463, msg : ====== 2020-02-05 17:07:45 =====
+2020/02/05 18:13:07.644 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 464, msg : ====== 2020-02-05 17:07:46 =====
+2020/02/05 18:13:07.644 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 465, msg : ====== 2020-02-05 17:10:57 =====
+2020/02/05 18:13:07.645 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 466, msg : ====== 2020-02-05 17:10:58 =====
+2020/02/05 18:13:07.645 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 467, msg : ====== 2020-02-05 17:10:59 =====
+2020/02/05 18:13:07.646 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 468, msg : ====== 2020-02-05 17:11:00 =====
+2020/02/05 18:13:07.646 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 469, msg : ====== 2020-02-05 17:11:01 =====
+2020/02/05 18:13:07.647 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 470, msg : ====== 2020-02-05 17:11:02 =====
+2020/02/05 18:13:07.647 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 471, msg : ====== 2020-02-05 17:11:03 =====
+2020/02/05 18:13:07.648 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 472, msg : ====== 2020-02-05 17:11:04 =====
+2020/02/05 18:13:07.648 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 473, msg : ====== 2020-02-05 17:11:05 =====
+2020/02/05 18:13:07.649 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 474, msg : ====== 2020-02-05 17:11:06 =====
+2020/02/05 18:13:07.649 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 475, msg : ====== 2020-02-05 17:11:07 =====
+2020/02/05 18:13:07.650 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 476, msg : ====== 2020-02-05 17:11:08 =====
+2020/02/05 18:13:07.650 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 477, msg : ====== 2020-02-05 17:11:09 =====
+2020/02/05 18:13:07.651 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 478, msg : ====== 2020-02-05 17:17:04 =====
+2020/02/05 18:13:07.651 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 479, msg : ====== 2020-02-05 17:17:05 =====
+2020/02/05 18:13:07.652 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 480, msg : ====== 2020-02-05 17:17:06 =====
+2020/02/05 18:13:07.653 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 481, msg : ====== 2020-02-05 17:17:07 =====
+2020/02/05 18:13:07.654 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 482, msg : ====== 2020-02-05 17:17:08 =====
+2020/02/05 18:13:07.655 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 483, msg : ====== 2020-02-05 17:17:09 =====
+2020/02/05 18:13:07.655 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 484, msg : ====== 2020-02-05 17:17:10 =====
+2020/02/05 18:13:07.656 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 485, msg : ====== 2020-02-05 17:17:11 =====
+2020/02/05 18:13:07.657 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 486, msg : ====== 2020-02-05 17:17:12 =====
+2020/02/05 18:13:07.658 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 487, msg : ====== 2020-02-05 17:17:13 =====
+2020/02/05 18:13:07.658 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 488, msg : ====== 2020-02-05 17:23:42 =====
+2020/02/05 18:13:07.659 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 489, msg : ====== 2020-02-05 17:23:43 =====
+2020/02/05 18:13:07.660 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 490, msg : ====== 2020-02-05 17:23:44 =====
+2020/02/05 18:13:07.660 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 491, msg : ====== 2020-02-05 17:23:45 =====
+2020/02/05 18:13:07.662 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 492, msg : ====== 2020-02-05 17:23:46 =====
+2020/02/05 18:13:07.663 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 493, msg : ====== 2020-02-05 17:23:47 =====
+2020/02/05 18:13:07.665 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 494, msg : ====== 2020-02-05 17:23:48 =====
+2020/02/05 18:13:07.667 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 495, msg : ====== 2020-02-05 17:23:49 =====
+2020/02/05 18:13:07.668 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 496, msg : ====== 2020-02-05 17:23:50 =====
+2020/02/05 18:13:07.669 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 497, msg : ====== 2020-02-05 17:23:51 =====
+2020/02/05 18:13:07.670 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 498, msg : ====== 2020-02-05 17:23:52 =====
+2020/02/05 18:13:07.670 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 499, msg : ====== 2020-02-05 17:23:53 =====
+2020/02/05 18:13:07.670 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 500, msg : ====== 2020-02-05 17:23:54 =====
+2020/02/05 18:13:07.671 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 501, msg : ====== 2020-02-05 17:23:55 =====
+2020/02/05 18:13:07.671 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 502, msg : ====== 2020-02-05 17:23:56 =====
+2020/02/05 18:13:07.672 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 503, msg : ====== 2020-02-05 17:23:57 =====
+2020/02/05 18:13:07.673 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 504, msg : ====== 2020-02-05 17:23:58 =====
+2020/02/05 18:13:07.673 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 505, msg : ====== 2020-02-05 17:26:40 =====
+2020/02/05 18:13:07.674 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 506, msg : ====== 2020-02-05 17:26:42 =====
+2020/02/05 18:13:07.674 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 507, msg : ====== 2020-02-05 18:13:07 =====
+2020/02/05 18:13:08.611 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 508, msg : ====== 2020-02-05 18:13:08 =====
+2020/02/05 18:13:09.616 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 509, msg : ====== 2020-02-05 18:13:09 =====
+2020/02/05 18:13:10.621 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 510, msg : ====== 2020-02-05 18:13:10 =====
+2020/02/05 18:13:11.626 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 511, msg : ====== 2020-02-05 18:13:11 =====
+2020/02/05 20:16:51.886 [I]  init log success
+2020/02/05 20:16:51.897 [I]  init es success
+2020/02/05 20:16:51.897 [I]  init log file[./var/log/nginx.log] tail success
+2020/02/05 20:16:51.897 [I]  init log file[./var/log/error.log] tail success
+2020/02/05 20:16:51.897 [I]  init tail success
+2020/02/05 20:16:51.925 [I]  init kafka producer success
+2020/02/05 20:16:51.936 [I]  init kafka consumer success
+2020/02/05 20:16:51.936 [I]  get topic[nginx_log] partitions success, partitions : [0]
+2020/02/05 20:16:51.944 [I]  consume topic[nginx_log] partition[0] success
+2020/02/05 20:16:52.171 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 512, msg : ====== 2020-02-05 20:16:51 =====
+2020/02/05 20:16:52.241 [I]  put document to es success
+2020/02/05 20:16:53.165 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 513, msg : ====== 2020-02-05 20:16:52 =====
+2020/02/05 20:16:53.185 [I]  put document to es success
+2020/02/05 20:16:54.175 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 514, msg : ====== 2020-02-05 20:16:53 =====
+2020/02/05 20:16:54.190 [I]  put document to es success
+2020/02/05 20:16:55.189 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 515, msg : ====== 2020-02-05 20:16:54 =====
+2020/02/05 20:16:55.211 [I]  put document to es success
+2020/02/05 20:16:56.200 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 516, msg : ====== 2020-02-05 20:16:55 =====
+2020/02/05 20:16:56.216 [I]  put document to es success
+2020/02/05 20:16:57.209 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 517, msg : ====== 2020-02-05 20:16:56 =====
+2020/02/05 20:16:57.224 [I]  put document to es success
+2020/02/05 20:16:58.215 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 518, msg : ====== 2020-02-05 20:16:57 =====
+2020/02/05 20:16:58.229 [I]  put document to es success
+2020/02/05 20:16:58.972 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 519, msg : ====== 2020-02-05 20:16:58 =====
+2020/02/05 20:16:58.986 [I]  put document to es success
+2020/02/05 20:16:59.985 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 520, msg : ====== 2020-02-05 20:16:59 =====
+2020/02/05 20:17:00.007 [I]  put document to es success
+2020/02/05 20:17:00.997 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 521, msg : ====== 2020-02-05 20:17:00 =====
+2020/02/05 20:17:01.009 [I]  put document to es success
+2020/02/05 20:17:02.006 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 522, msg : ====== 2020-02-05 20:17:01 =====
+2020/02/05 20:17:02.018 [I]  put document to es success
+2020/02/05 20:17:03.016 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 523, msg : ====== 2020-02-05 20:17:02 =====
+2020/02/05 20:17:03.031 [I]  put document to es success
+2020/02/05 20:17:04.028 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 524, msg : ====== 2020-02-05 20:17:03 =====
+2020/02/05 20:17:04.041 [I]  put document to es success
+2020/02/05 20:17:05.038 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 525, msg : ====== 2020-02-05 20:17:04 =====
+2020/02/05 20:17:05.059 [I]  put document to es success
+2020/02/05 20:17:06.054 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 526, msg : ====== 2020-02-05 20:17:05 =====
+2020/02/05 20:17:06.074 [I]  put document to es success
+2020/02/05 20:17:07.064 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 527, msg : ====== 2020-02-05 20:17:06 =====
+2020/02/05 20:17:07.101 [I]  put document to es success
+2020/02/05 20:17:08.070 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 528, msg : ====== 2020-02-05 20:17:08 =====
+2020/02/05 20:17:08.085 [I]  put document to es success
+2020/02/05 20:17:09.084 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 529, msg : ====== 2020-02-05 20:17:09 =====
+2020/02/05 20:17:09.098 [I]  put document to es success
+2020/02/05 20:17:10.098 [I]  send msg to kafka success！topic : nginx_log, partition : 0, offset : 530, msg : ====== 2020-02-05 20:17:10 =====
+2020/02/05 20:17:10.128 [I]  put document to es success

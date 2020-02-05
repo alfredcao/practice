@@ -15,7 +15,8 @@ type TailMsg struct {
 }
 
 type TailObj struct {
-	tail *tail2.Tail
+	tail     *tail2.Tail
+	exitChan chan int
 }
 
 type TailObjMgr struct {
@@ -39,6 +40,7 @@ func InitTailf() (err error) {
 
 	for _, collectConf := range conf.AppConfig.CollectConfs {
 		filePath := collectConf.LogPath
+		logTopic := collectConf.LogTopic
 		tail, tailErr := tail2.TailFile(filePath, tail2.Config{
 			ReOpen:    true,
 			MustExist: false,
@@ -56,21 +58,27 @@ func InitTailf() (err error) {
 		}
 
 		tailObj := TailObj{
-			tail: tail,
+			tail:     tail,
+			exitChan: make(chan int, 1),
 		}
 		TailObjManager.tailObjs = append(TailObjManager.tailObjs, tailObj)
 
 		go func() {
 			for {
-				msg, ok := <-tail.Lines
-				if !ok {
-					log.Warnf("tail log file[%s] close reopen", filePath)
-					time.Sleep(time.Second)
-					continue
-				}
-				TailObjManager.MsgChan <- &TailMsg{
-					Text:  msg.Text,
-					Topic: collectConf.LogTopic,
+				select {
+				case <-tailObj.exitChan:
+					logs.Info("stop tail log file[%s]", filePath)
+					break
+				case msg, ok := <-tailObj.tail.Lines:
+					if !ok {
+						log.Warnf("tail log file[%s] close reopen", filePath)
+						time.Sleep(time.Second)
+						continue
+					}
+					TailObjManager.MsgChan <- &TailMsg{
+						Text:  msg.Text,
+						Topic: logTopic,
+					}
 				}
 			}
 		}()
