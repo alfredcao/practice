@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"runtime"
 	"sync"
-	"sync/atomic"
 )
 
 var (
 	count     int64
 	waitGroup sync.WaitGroup
+	mutex     sync.Mutex
 )
 
 func main() {
@@ -40,13 +40,31 @@ func main() {
 //	}
 //}
 
+//func incr(id int) {
+//	defer waitGroup.Done()
+//	fmt.Printf("go routine[%d] start run\n", id)
+//
+//	for i := 0; i < 2; i++ {
+//		atomic.AddInt64(&count, 1)
+//		fmt.Printf("go routine[%d] yield\n", id)
+//		runtime.Gosched()
+//	}
+//}
+
 func incr(id int) {
 	defer waitGroup.Done()
 	fmt.Printf("go routine[%d] start run\n", id)
 
 	for i := 0; i < 2; i++ {
-		atomic.AddInt64(&count, 1)
+		mutex.Lock()
+		value := count
+
 		fmt.Printf("go routine[%d] yield\n", id)
 		runtime.Gosched()
+		fmt.Printf("go routine[%d] rerun\n", id)
+
+		value++
+		count = value
+		mutex.Unlock()
 	}
 }
