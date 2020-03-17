@@ -31,3 +31,9 @@ func GetThreadList() (threads []Thread, err error) {
 
 	return
 }
+
+func GetThreadById(id int64) (thread Thread, err error) {
+	err = DB.QueryRow("SELECT id, uuid, title, content, user_id, created_at, updated_at "+
+		"FROM thread WHERE id = ? ORDER BY id DESC", id).Scan(&thread.Id, &thread.Uuid, &thread.Title, &thread.Content, &thread.UserId, &thread.CreatedAt, &thread.UpdatedAt)
+	return
+}
