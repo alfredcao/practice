@@ -1,9 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"io/ioutil"
+	"os"
+)
 
 func main() {
-	testMemoryStore()
+	//testMemoryStore()
+	testFileStore()
 }
 
 var (
@@ -11,6 +16,34 @@ var (
 	PostByAuthor = make(map[string][]*Post)
 )
 
+func testFileStore() {
+	// use package ioutil write&read file
+	data := []byte("Hello World!")
+	err := ioutil.WriteFile("data1", data, 0777)
+	if err != nil {
+		panic(err)
+	}
+	data1, _ := ioutil.ReadFile("data1")
+	fmt.Println("read from data1, content :", string(data1))
+
+	// use File write&read file
+	file, err := os.Create("data2")
+	if err != nil {
+		panic(err)
+	}
+	num, _ := file.Write(data)
+	fmt.Printf("write to data2 %d bytes\n", num)
+
+	file2, _ := os.Open("data2")
+	data2 := make([]byte, len(data))
+	file2.Read(data2)
+	fmt.Println("read from data2, content :", string(data2))
+
+}
+
+/**
+内存存储
+*/
 func testMemoryStore() {
 	post1 := Post{1, "Hello!", "user1"}
 	post2 := Post{2, "你好!", "user2"}
