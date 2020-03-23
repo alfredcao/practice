@@ -3,6 +3,7 @@ package controller
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/google/uuid"
 	"github.com/julienschmidt/httprouter"
 	"gowebprograming/chitchat/dao"
 	"net/http"
@@ -33,4 +34,28 @@ func GetThreadById(resp http.ResponseWriter, req *http.Request, params httproute
 		jsonByteArr, _ := json.Marshal(thread)
 		fmt.Fprint(resp, string(jsonByteArr))
 	}
+}
+
+func AddThread(resp http.ResponseWriter, req *http.Request, params httprouter.Params) {
+	err := req.ParseForm()
+	if err != nil {
+		fmt.Fprint(resp, "添加贴子信息失败，请联系系统管理员")
+		return
+	}
+
+	userId, _ := strconv.ParseInt(req.FormValue("userId"), 10, 64)
+	thread := dao.Thread{
+		Uuid:    uuid.New().String(),
+		Title:   req.FormValue("title"),
+		Content: req.FormValue("content"),
+		UserId:  userId,
+	}
+
+	id, err := dao.Insert(&thread)
+	if err != nil {
+		fmt.Fprint(resp, "添加贴子信息失败，请联系系统管理员")
+		return
+	}
+	fmt.Fprint(resp, fmt.Sprintf("添加帖子信息成功，帖子ID : %d", id))
+
 }

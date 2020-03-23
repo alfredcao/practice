@@ -37,3 +37,14 @@ func GetThreadById(id int64) (thread Thread, err error) {
 		"FROM thread WHERE id = ? ORDER BY id DESC", id).Scan(&thread.Id, &thread.Uuid, &thread.Title, &thread.Content, &thread.UserId, &thread.CreatedAt, &thread.UpdatedAt)
 	return
 }
+
+func Insert(thread *Thread) (id int64, err error) {
+	result, err := DB.Exec("insert into thread(uuid, title, content, user_id) values (?, ?, ?, ?)",
+		thread.Uuid, thread.Title, thread.Content, thread.UserId)
+	if err != nil {
+		return
+	}
+
+	id, _ = result.LastInsertId()
+	return
+}

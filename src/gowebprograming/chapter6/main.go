@@ -1,7 +1,9 @@
 package main
 
 import (
+	"bytes"
 	"encoding/csv"
+	"encoding/gob"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -12,13 +14,45 @@ import (
 func main() {
 	//testMemoryStore()
 	//testFileStore()
-	testCsvFileStore()
+	//testCsvFileStore()
+	testGobFileStore()
 }
 
 var (
 	PostById     = make(map[int]*Post)
 	PostByAuthor = make(map[string][]*Post)
 )
+
+func testGobFileStore() {
+	post := Post{1, "Hello!", "user1"}
+	buffer := new(bytes.Buffer)
+	encoder := gob.NewEncoder(buffer)
+	err := encoder.Encode(post)
+	if err != nil {
+		panic(err)
+	}
+	fileName := "gobdata"
+	err = ioutil.WriteFile(fileName, buffer.Bytes(), 0777)
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println("write to file success")
+
+	raw, err := ioutil.ReadFile(fileName)
+	if err != nil {
+		panic(err)
+	}
+	buffer1 := bytes.NewBuffer(raw)
+	decoder := gob.NewDecoder(buffer1)
+	post1 := new(Post)
+	err = decoder.Decode(&post1)
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println("read from file :", post1)
+}
 
 /**
 CSV文件存储
