@@ -16,6 +16,8 @@ func main() {
 	router.GET("/threadList", accessLog(controller.GetThreadList))
 	router.GET("/thread/:id", accessLog(controller.GetThreadById))
 	router.POST("/thread/add", accessLog(controller.AddThread))
+	router.POST("/thread/update", accessLog(controller.UpdateThread))
+	router.POST("/thread/delete", accessLog(controller.DeleteThread))
 	server := http.Server{
 		Addr:    "localhost:8080",
 		Handler: router,

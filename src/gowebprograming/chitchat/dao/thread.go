@@ -48,3 +48,13 @@ func Insert(thread *Thread) (id int64, err error) {
 	id, _ = result.LastInsertId()
 	return
 }
+
+func Update(thread *Thread) (err error) {
+	_, err = DB.Exec("update thread set title = ?, content = ? where id = ?", thread.Title, thread.Content, thread.Id)
+	return
+}
+
+func Delete(threadId int64) (err error) {
+	_, err = DB.Exec("delete from thread where id = ?", threadId)
+	return
+}

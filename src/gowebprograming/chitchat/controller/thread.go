@@ -59,3 +59,44 @@ func AddThread(resp http.ResponseWriter, req *http.Request, params httprouter.Pa
 	fmt.Fprint(resp, fmt.Sprintf("添加帖子信息成功，帖子ID : %d", id))
 
 }
+
+func UpdateThread(resp http.ResponseWriter, req *http.Request, params httprouter.Params) {
+	err := req.ParseForm()
+	if err != nil {
+		fmt.Fprint(resp, "更新贴子信息失败，请联系系统管理员")
+		return
+	}
+
+	id, _ := strconv.ParseInt(req.FormValue("id"), 10, 64)
+	thread := dao.Thread{
+		Id:      id,
+		Title:   req.FormValue("title"),
+		Content: req.FormValue("content"),
+	}
+
+	err = dao.Update(&thread)
+	if err != nil {
+		fmt.Fprint(resp, "更新贴子信息失败，请联系系统管理员")
+		return
+	}
+	fmt.Fprint(resp, fmt.Sprintf("更新帖子信息成功，帖子ID : %d", id))
+
+}
+
+func DeleteThread(resp http.ResponseWriter, req *http.Request, params httprouter.Params) {
+	err := req.ParseForm()
+	if err != nil {
+		fmt.Fprint(resp, "删除贴子信息失败，请联系系统管理员")
+		return
+	}
+
+	id, _ := strconv.ParseInt(req.FormValue("id"), 10, 64)
+
+	err = dao.Delete(id)
+	if err != nil {
+		fmt.Fprint(resp, "删除贴子信息失败，请联系系统管理员")
+		return
+	}
+	fmt.Fprint(resp, fmt.Sprintf("删除帖子信息成功，帖子ID : %d", id))
+
+}
