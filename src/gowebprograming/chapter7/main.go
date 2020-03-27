@@ -1,13 +1,16 @@
 package main
 
 import (
+	"bytes"
 	"encoding/xml"
 	"fmt"
+	"io"
+	"strings"
 )
 
 func main() {
-	processXml()
-
+	//processXml()
+	processXml2()
 }
 
 func processXml() {
@@ -29,6 +32,51 @@ func processXml() {
 
 	fmt.Println("marshal result :")
 	fmt.Println(string(xmlBytes))
+}
+
+/**
+流式处理
+*/
+func processXml2() {
+	decoder := xml.NewDecoder(strings.NewReader(postXml))
+	var comments []Comment
+	for {
+		token, err := decoder.Token()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			fmt.Println("decode failed, err :", err)
+			return
+		}
+
+		switch se := token.(type) {
+		case xml.StartElement:
+			elementName := se.Name.Local
+			if elementName == "comment" {
+				var comment Comment
+				err = decoder.DecodeElement(&comment, &se)
+				if err != nil {
+					fmt.Println("decode element failed, err :", err)
+					return
+				}
+				comments = append(comments, comment)
+			}
+		}
+	}
+	fmt.Println(comments)
+
+	buf := bytes.NewBufferString("")
+	encoder := xml.NewEncoder(buf)
+	err := encoder.Encode(comments)
+
+	if err != nil {
+		fmt.Println("encode failed, err :", err)
+		return
+	}
+
+	fmt.Println(buf.String())
+
 }
 
 const postXml = `
