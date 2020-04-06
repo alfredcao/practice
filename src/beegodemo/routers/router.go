@@ -36,6 +36,9 @@ func init() {
 
 	// 自动匹配
 	beego.AutoRouter(&controllers.AutoRouterController{})
+
+	// 获取参数
+	beego.Router("/param", &controllers.ParamController{})
 }
 
 type BasicRouterHandler struct{}
