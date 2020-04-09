@@ -39,6 +39,9 @@ func init() {
 
 	// 获取参数
 	beego.Router("/param", &controllers.ParamController{})
+
+	// session控制
+	beego.Router("/session", &controllers.SessionController{})
 }
 
 type BasicRouterHandler struct{}
