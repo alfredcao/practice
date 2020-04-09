@@ -42,6 +42,18 @@ func init() {
 
 	// session控制
 	beego.Router("/session", &controllers.SessionController{})
+
+	// 过滤器
+	beego.Router("/login", &controllers.LoginController{})
+	//beego.InsertFilter("*", beego.BeforeRouter, func(ctx *context.Context) {
+	//	fmt.Println("请求URI :", ctx.Request.RequestURI)
+	//	if ctx.Request.URL.Path != "/login" {
+	//		_, ok := ctx.Input.Session("uid").(int)
+	//		if !ok {
+	//			ctx.Redirect(http.StatusFound, "/login")
+	//		}
+	//	}
+	//})
 }
 
 type BasicRouterHandler struct{}
