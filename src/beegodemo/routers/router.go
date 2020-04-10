@@ -65,6 +65,11 @@ func init() {
 	fmt.Println(beego.URLFor("UrlBuildController.Myext"))
 	fmt.Println(beego.URLFor("UrlBuildController.GetUrl"))
 
+	// 多种数据格式输出
+	beego.Router("/formatoutput/json", &controllers.FormatOutputController{}, "get:Json")
+	beego.Router("/formatoutput/xml", &controllers.FormatOutputController{}, "get:Xml")
+	beego.Router("/formatoutput/jsonp", &controllers.FormatOutputController{}, "get:Jsonp")
+
 }
 
 type BasicRouterHandler struct{}
