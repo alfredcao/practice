@@ -2,6 +2,7 @@ package routers
 
 import (
 	"beegodemo/controllers"
+	"fmt"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
 	"net/http"
@@ -54,6 +55,16 @@ func init() {
 	//		}
 	//	}
 	//})
+
+	// URL配置
+	beego.Router("/urlbuild/list", &controllers.UrlBuildController{}, "*:List")
+	beego.Router("/urlbuild/:lastname/:firstname", &controllers.UrlBuildController{})
+	beego.AutoRouter(&controllers.UrlBuildController{})
+	fmt.Println(beego.URLFor("UrlBuildController.List"))
+	fmt.Println(beego.URLFor("UrlBuildController.Get"), ":lastname", "zhen", ":firstname", "cao")
+	fmt.Println(beego.URLFor("UrlBuildController.Myext"))
+	fmt.Println(beego.URLFor("UrlBuildController.GetUrl"))
+
 }
 
 type BasicRouterHandler struct{}
