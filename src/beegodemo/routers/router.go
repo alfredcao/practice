@@ -74,6 +74,13 @@ func init() {
 	beego.Router("/formvalid/valid", &controllers.FormValidController{}, "post:Valid")
 	beego.Router("/formvalid/validbystructtag", &controllers.FormValidController{}, "post:ValidByStructTag")
 
+	// 错误处理
+	beego.Router("/errorhandle/abortdemo", &controllers.ErrorHandleController{}, "*:AbortDemo")
+	beego.Router("/errorhandle/dberror", &controllers.ErrorHandleController{}, "*:DBError")
+	beego.Router("/errorhandle/rediserror", &controllers.ErrorHandleController{}, "*:RedisError")
+	beego.ErrorHandler("404", controllers.Custom404ErrorHandler)
+	beego.ErrorHandler("DBError", controllers.DBErrorHandler)
+	beego.ErrorController(&controllers.ErrorHandleController{})
 }
 
 type BasicRouterHandler struct{}
