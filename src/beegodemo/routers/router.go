@@ -70,6 +70,10 @@ func init() {
 	beego.Router("/formatoutput/xml", &controllers.FormatOutputController{}, "get:Xml")
 	beego.Router("/formatoutput/jsonp", &controllers.FormatOutputController{}, "get:Jsonp")
 
+	// 表单数据验证
+	beego.Router("/formvalid/valid", &controllers.FormValidController{}, "post:Valid")
+	beego.Router("/formvalid/validbystructtag", &controllers.FormValidController{}, "post:ValidByStructTag")
+
 }
 
 type BasicRouterHandler struct{}
