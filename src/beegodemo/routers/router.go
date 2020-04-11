@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
+	"github.com/astaxie/beego/logs"
 	"net/http"
 )
 
@@ -81,6 +82,10 @@ func init() {
 	beego.ErrorHandler("404", controllers.Custom404ErrorHandler)
 	beego.ErrorHandler("DBError", controllers.DBErrorHandler)
 	beego.ErrorController(&controllers.ErrorHandleController{})
+
+	// 日志处理
+	logs.SetLevel(logs.LevelInfo)
+	beego.Router("/logs", &controllers.LogsController{})
 }
 
 type BasicRouterHandler struct{}
